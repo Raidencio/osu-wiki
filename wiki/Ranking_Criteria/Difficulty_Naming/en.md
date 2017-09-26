@@ -133,5 +133,3 @@ Difficulty spread inspired by Touhou (東方Project in Japanese), including any 
 The difficulty spread would follow the Default difficulty naming scheme, with the exception of the Insane difficulty, which would be substituted by Lunatic.
 
 - ![Lunatic](/wiki/shared/diff/insane-s.png "Lunatic") Lunatic
-
-
