@@ -8,7 +8,7 @@ This subsection shows the default scaling difficulty names for each game mode, w
 
 ### ![osu!](/wiki/shared/Osu.gif "osu!") osu!
  
-- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy 
+- ![Easy](/wiki/shared/diff/easy-s.png) Easy 
 - ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
 - ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
 - ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
