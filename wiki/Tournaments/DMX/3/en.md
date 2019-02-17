@@ -8,7 +8,7 @@ tags:
 
 ![DMX 3 Logo](img/logo.png)
 
-The **DeltaMax's Mania Key Smasher** (***DMX 3***) is a double elimination one-on-one osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It is the 3rd installment of the DeltaMax's Tournaments.
+The **DeltaMax's Mania Key Smasher** (***DMX 3***) was a double-elimination one-on-one osu!mania tournament hosted by ![][flag_FR] [Kasumii-sama](/users/6177263). It was the 3rd installment of the DeltaMax's Tournaments.
 
 ## Tournament Schedule
 
@@ -31,19 +31,17 @@ In every tournament, people conquering a place on the podium are eligible to rec
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | *to be decided* |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | *to be decided* |
 
 ![DMX 3 Winner Badge](img/badge.png)
 
 ## Organisation
 
-The DeltaMax's Mania Key Smasher is run by various community members.
+The DeltaMax's Mania Key Smasher was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Management | ![][flag_FR] [Kasumii-sama](/users/6177263) |
-| Map Selectors | ![][flag_FR] [Adri](/users/4579132), ![][flag_SG] [Raveille](/users/1388767), ![][flag_US] [\_untitld](/users/10465260) |
+| Map Selectors | ![][flag_FR] [Adri](/users/4579132), ![][flag_SG] [Raveille](/users/1388767), ![][flag_US] [\_untitld](/users/10465260), ![][flag_US] [qqqant](/users/8976576) |
 | Designer | ![][flag_DE] [Celektus](/users/4294993) |
 | Streamers | ![][flag_FR] [Adri](/users/4579132), ![][flag_MY] [Bedwyr Aorta](/users/10875855), ![][flag_US] [ITotallyGetThat](/users/8770622), ![][flag_BE] [NightNarumi](/users/4381142) |
 | Referees | ![][flag_HK] [Akali393394](/users/9686628), ![][flag_JP] [Briesmas](/users/2865172), ![][flag_AU] [Cactie](/users/5592409), ![][flag_ID] [fajar13k](/users/7100002), ![][flag_BR] [Foxerus](/users/7479684), ![][flag_US] [ITotallyGetThat](/users/8770622), ![][flag_NL] [Jinkela](/users/5347374), ![][flag_FR] [Kasumii-sama](/users/6177263), ![][flag_DE] [lukili846](/users/6278008), ![][flag_US] [Raoul](/users/9924405), ![][flag_NL] [SpectreSan](/users/11310442), ![][flag_FR] [Spartan Plume](/users/2553166) |
@@ -85,53 +83,84 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 
 -----------------------
 
-## Match Schedules: Round of 16
+## Podium
 
-### Saturday, 1 December 2018
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Player A |  |  | Player B | Match Time |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | -\[DaNieL\_TH\]- | ![][flag_TH] | ![][flag_MY] | \[MY\]Kibitz | **10:00 UTC** |
-| #2 | BossMadWolf | ![][flag_TH] | ![][flag_DE] | Orange127 | **12:00 UTC** |
-| #3 | DemonWaves | ![][flag_FR] | ![][flag_PL] | Arkitev | **14:00 UTC** |
-| #4 | cheewee10 | ![][flag_MY] | ![][flag_BE] | NightNarumi | **11:00 UTC** |
-| #5 | Camopoltergeist | ![][flag_FI] | ![][flag_TH] | MyZterioN- | **13:00 UTC** |
-| #6 | Freeflow | ![][flag_CA] | ![][flag_GB] | xSnaggles | **20:00 UTC** |
-| #7 | Spartan- | ![][flag_AU] | ![][flag_PL] | SitekX | **09:00 UTC** |
-| #8 | CribobFanGirl | ![][flag_IT] | ![][flag_MY] | \[MY\]xRay | **11:00 UTC** |
-
-### Sunday, 2 December 2018
-
-| Match ID | Player A |  |  | Player B | Match Time |  |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #9a | -\[DaNieL\_TH\]- | ![][flag_TH] | ![][flag_TH] | BossMadWolf | **09:00 UTC** | ¹ |
-| #9b | -\[DaNieL\_TH\]- | ![][flag_TH] | ![][flag_DE] | Orange127 | **09:00 UTC** | ¹ |
-| #9c | \[MY\]Kibitz | ![][flag_MY] | ![][flag_TH] | BossMadWolf | **09:00 UTC** | ¹ |
-| #9d | \[MY\]Kibitz | ![][flag_MY] | ![][flag_DE] | Orange127 | **09:00 UTC** | ¹ |
-| #10a | DemonWaves | ![][flag_FR] | ![][flag_MY] | cheewee10 | **10:00 UTC** | ² |
-| #10b | DemonWaves | ![][flag_FR] | ![][flag_BE] | NightNarumi | **16:00 UTC** | ² |
-| #10c | Arkitev | ![][flag_PL] | ![][flag_MY] | cheewee10 | **10:00 UTC** | ² |
-| #10d | Arkitev | ![][flag_PL] | ![][flag_BE] | NightNarumi | **16:00 UTC** | ² |
-| #11a | Camopoltergeist | ![][flag_FI] | ![][flag_CA] | Freeflow | **20:00 UTC** | ³ |
-| #11b | Camopoltergeist | ![][flag_FI] | ![][flag_GB] | xSnaggles | **15:00 UTC** | ³ |
-| #11c | MyZterioN- | ![][flag_TH] | ![][flag_CA] | Freeflow | **20:00 UTC** | ³ |
-| #11d | MyZterioN- | ![][flag_TH] | ![][flag_GB] | xSnaggles | **15:00 UTC** | ³ |
-| #12a | Spartan- | ![][flag_AU] | ![][flag_IT] | CribobFanGirl | **09:00 UTC** | ⁴ |
-| #12b | Spartan- | ![][flag_AU] | ![][flag_MY] | \[MY\]xRay | **09:00 UTC** | ⁴ |
-| #12c | SitekX | ![][flag_PL] | ![][flag_IT] | CribobFanGirl | **17:00 UTC** | ⁴ |
-| #12d | SitekX | ![][flag_PL] | ![][flag_MY] | \[MY\]xRay | **09:00 UTC** | ⁴ |
-
-¹ Encounter dependent on winner of Match #1 and Match #2
-
-² Encounter dependent on winner of Match #3 and Match #4
-
-³ Encounter dependent on winner of Match #5 and Match #6
-
-⁴ Encounter dependent on winner of Match #7 and Match #8
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_MY] [cheewee10](/users/4477497) |
+| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_GB] [xSnaggles](/users/3799946) |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] [SitekX](/users/3840946) |
 
 -----------------------
 
 ## Mappools
+
+### Finals
+
+**This mappool was played in Finals and Grand Finals.**
+
+**[Download the mappack here! (129 MB)](https://mega.nz/#!J11SWIRA!Gf_dA6CwFmOAF-QyeGe-a3DCB_WsE4RtAbL1Ufn_Dwk)**
+
+- FreeMod
+  - [Camellia - epimerization (qqqant) \[doxorubicin\]](/beatmapsets/803740/#mania/1686934)
+  - [Frums - Credits (Leniane) \[Corporation\]](/beatmapsets/748800/#mania/1577390)
+  - [Camellia - EMPIRE OF FLAME ("LabRys" Long ver.) (Shoegazer, Valedict) \[GRAVITY\]](/beatmapsets/772677/#mania/1624171)
+  - [Pia-no-jaC - Paradiso (Scintill) \[Scintill's Challenge\]](/beatmapsets/322085/#mania/716194)
+  - [Billx - LA MD (Wh1teh) \[Marathon\]](/beatmapsets/455656/#mania/976620)
+  - [Sota Fujimori - Move That Body -Extended Mix- (juankristal) \[Dance\]](/beatmapsets/765772/#mania/1609983)
+  - [void - Anguished Unmaking (LovelySerenade) \[Vindication\]](/beatmapsets/728509/#mania/1538044)
+  - [Hatsuki Yura - Dancer of Saramandora (Raveille) \[Sprites\]](/beatmapsets/836808/#mania/1752295)
+  - [Memme - Uranium (tailsdk) \[Radioactive Noodles\]](/beatmapsets/872940/#mania/1824765)
+  - [Ling tosite sigure - abnormalize (Shoegazer) \[desperation\]](/beatmapsets/574621/#mania/1216961)
+  - [Reizoko Cj - Cosmos / The R Machine (Chrubble) \[Ultimate\]](/beatmapsets/677365/#mania/1432566)
+  - [Camellia - Nightmare of Hornets Squad (Valedict, Evening) \[Breakdown\]](/beatmapsets/543489/#mania/1151944)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Halogen-) \[Extreme\]](/beatmapsets/684675/#mania/1449017)
+  - [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (qqqant) \[Nine Time\]](/beatmapsets/859935/#mania/1799312)
+  - [Fleshgod Apocalypse - The Violation (Shoegazer) \[Desecration\]](/beatmapsets/496416#mania/1056624)
+- Tiebreaker
+  - **[Camellia - POWA OF DA WILDANES (qqqant) \[IN DA JUNGLE\]](/beatmapsets/773957/#mania/1626796)**
+
+### Semifinals
+
+**[Download the mappack here! (57 MB)](https://puu.sh/CfI26/fdfcbe51c4.zip)**
+
+- FreeMod
+  - [II-L - SPUTNIK-3 (Vortex-) \[SV = true;\]](/beatmapsets/849521/#mania/1776410)
+  - [LeaF - Lyrith (Vortex-) \[Amnesia\]](/beatmapsets/687280/#mania/1463532)
+  - [Zekk - Re:Construct (bumpinho) \[Extreme\]](/beatmapsets/469029/#mania/1003027)
+  - [xenothium remixed by gmtn. - Be Happy Melody -the solitary melody- (JvRyu) \[Gothic\]](/beatmapsets/440054/#mania/946943)
+  - [EBIMAYO - GOODTEK (LeiN-) \[4K Another\]](/beatmapsets/369069/#mania/808998)
+  - [C-Show - On the FM (Raspberriel) \[107.1 MHz\]](/beatmapsets/696787/#mania/1475857)
+  - [Asaka - Eternal Star (Raveille) \[Yakusoku No Eien\]](/beatmapsets/841478/#mania/1760973)
+  - [lapix - Pixel Fighter (PiraTom) \[LoNg VACATION\]](/beatmapsets/672385/#mania/1421364)
+  - [Virtual Riot - Preset Junkies VIP (Gekido-) \[Challenge\]](/beatmapsets/886857/#mania/1854039)
+  - [TheBoxX - Footsekz (Guilhermeziat) \[Handsekz\]](/beatmapsets/781053/#mania/1640495)
+  - [USAO - Dynamite (Extended Mix) (bumpinho) \[Twerk\]](/beatmapsets/589727/#mania/1248193)
+  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](/beatmapsets/667301/#mania/1412004)
+  - [Keigo Hoashi & Kakeru Ishihama (MONACA) - Emil - Despair (riktoi) \[Impending Doom\]](/beatmapsets/711366/#mania/1503827)
+- Tiebreaker
+  - **[Kaneko Chiharu - Lunar EclipsE (bumpinho) \[Bloody Lunatic\]](/beatmapsets/614864/#mania/1297014)**
+
+### Quarterfinals
+
+**[Download the mappack here! (47 MB)](https://puu.sh/Cbf2V/070a9d85b1.zip)**
+
+- FreeMod
+  - [Chito (CV: Minase Inori), Yuuri (CV: Kubo Yurika) - More One Night ( Assertive Hardcore Bootleg ) \[Long ver.\] (remixes00000) \[Let's Dance!!\]](/beatmapsets/815105/#mania/1709538)
+  - [Culprate - Yin (Captain) \[Shade of reality (SV)\]](/beatmapsets/684816/#mania/1449286)
+  - [Mili - Rightfully (TV Size) (TheNewBungping) \[Slayer\]](/beatmapsets/865039/#mania/1808892)
+  - [Masayoshi Minoshima - Struggle (NekoPoiLTE) \[EXHAUST\]](/beatmapsets/719448/#mania/1519285)
+  - [Hideki Naganuma "Sonic Rush" - Back 2 Back (Raveille) \[Spinnin' On\]](/beatmapsets/825064/#mania/1728923)
+  - [M2U - Mare Maris (Raveille) \[For The Brave\]](/beatmapsets/786297/#mania/1650609)
+  - [ETIA. vs. DJ DALER MEHNDI - TUNAK TUNAKSTORM (qqqant) \[DA DA DA\]](/beatmapsets/799414/#mania/1678448)
+  - [Camellia - Routing (MrAntagonizer) \[Freeway\]](/beatmapsets/725200/#mania/1531265)
+  - [goreshit - when the cicadas cry (Civilization) \[tranquility\]](/beatmapsets/789122/#mania/1656192)
+  - [Dragonforce - Fallen World (Cut ver.) (Adri) \[Power\]](/beatmapsets/888061/#mania/1856366)
+  - [Kobaryo feat. you - Aozora Gradation (2xThunder) \[Azur Lv. 16\]](/beatmapsets/444922/#mania/957195)
+- Tiebreaker
+  - **[Rayark Sound Team - CHAOS (BossMadWolf) \[System Denied (NSV)\]](/beatmapsets/857606/#mania/1793209)**
 
 ### Round of 16
 
@@ -172,6 +201,76 @@ The DeltaMax's Mania Key Smasher is run by various community members.
 ------------------------------------------------------------------------
 
 ## Match Results
+
+### Grand Finals
+
+| Saturday, 2019-01-12 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_GB] xSnaggles | [#1](/community/matches/48798362) |
+
+### Finals
+
+| Saturday, 2019-01-05 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **cheewee10** ![][flag_MY] | **7** | 0 | ![][flag_GB] xSnaggles | [#1](/community/matches/48633506) |
+| -\[DaNieL\_TH\]- ![][flag_TH] | 4 | **7** | ![][flag_PL] **SitekX** | [#1](/community/matches/48632373) |
+
+| Sunday, 2019-01-06 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| SitekX ![][flag_PL] | 6 | **7** | ![][flag_GB] **xSnaggles** | [#1](/community/matches/48661045) |
+
+### Semifinals
+
+| Saturday, 2018-12-15 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| BossMadWolf ![][flag_TH] | 0 | **5** | ![][flag_MY] **cheewee10** | [#1](/community/matches/48109370) |
+| **xSnaggles** ![][flag_GB] | **5** | 4 | ![][flag_PL] SitekX | [#1](/community/matches/48122244) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_FI] Camopoltergeist | [#1](/community/matches/48109390) |
+| MyZterioN- ![][flag_TH] | 4 | **5** | ![][flag_MY] **\[MY\]Kibitz** | [#1](/community/matches/48106115) |
+
+| Sunday, 2018-12-16 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| BossMadWolf ![][flag_TH] | 2 | **5** | ![][flag_TH] **-\[DaNieL\_TH\]-** | [#1](/community/matches/48137730) |
+| \[MY\]Kibitz ![][flag_MY] | 0 | **5** | ![][flag_PL] **SitekX** | -win by default- |
+
+### Quarterfinals
+
+| Friday, 2018-12-07 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **SitekX** ![][flag_PL] | **5** | 1 | ![][flag_MY] \[MY\]xRay | [#1](/community/matches/47934372) |
+| Camopoltergeist ![][flag_FI] | 4 | **5** | ![][flag_GB] **xSnaggles** | [#1](/community/matches/47936485) |
+| **Camopoltergeist** ![][flag_FI] | **5** | 0 | ![][flag_PL] Arkitev | [#1](/community/matches/47937650) |
+
+| Saturday, 2018-12-08 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| \[MY\]Kibitz ![][flag_MY] | 0 | **5** | ![][flag_TH] **BossMadWolf** | -win by default- |
+| DemonWaves ![][flag_FR] | 0 | **5** | ![][flag_MY] **cheewee10** | [#1](/community/matches/47957899) |
+| DemonWaves ![][flag_FR] | 2 | **5** | ![][flag_TH] **MyZterioN-** | [#1](/community/matches/47958955) |
+
+| Sunday, 2018-12-09 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| \[MY\]xRay ![][flag_MY] | 0 | **5** | ![][flag_TH] **-\[DaNieL\_TH\]-** | -win by default- |
+| **\[MY\]Kibitz** ![][flag_MY] | **5** | 0 | ![][flag_IT] CribobFanGirl | -win by default- |
+
+### Round of 16
+
+| Saturday, 2018-12-01 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| -\[DaNieL\_TH\]- ![][flag_TH] | 4 | **5** | ![][flag_MY] **\[MY\]Kibitz** | [#1](/community/matches/47793754) |
+| **BossMadWolf** ![][flag_TH] | **5** | 0 | ![][flag_DE] Orange127 | [#1](/community/matches/47798392) |
+| **DemonWaves** ![][flag_FR] | **5** | 4 | ![][flag_PL] Arkitev | [#1](/community/matches/47801370) |
+| **Camopoltergeist** ![][flag_FI] | **5** | 1 | ![][flag_TH] MyZterion- | [#1](/community/matches/47799649) |
+| Freeflow ![][flag_CA] | 0 | **5** | ![][flag_GB] **xSnaggles** | [#1](/community/matches/47812551) |
+| Spartan- ![][flag_AU] | 0 | **5** | ![][flag_PL] **SitekX** | [#1](/community/matches/47795284) |
+| CribobFanGirl ![][flag_IT] | 0 | **5** | ![][flag_MY] **\[MY\]xRay** | -win by default- |
+
+| Sunday, 2018-12-02 |  |  |  |  | 
+| --: | :-: | :-: | :-- | :-: |
+| **cheewee10** ![][flag_MY] | **5** | 0 | ![][flag_BE] NightNarumi | [#1](/community/matches/47828128) |
+| **-\[DaNieL\_TH\]-** ![][flag_TH] | **5** | 0 | ![][flag_DE] Orange127 | -win by default- |
+| **Arkitev** ![][flag_PL] | **5** | 2 | ![][flag_BE] NightNarumi | [#1](/community/matches/47833836) |
+| **MyZtreioN-** ![][flag_TH] | **5** | 1 | ![][flag_CA] Freeflow | [#1](/community/matches/47824072) |
+| Spartan- ![][flag_AU] | 1 | **5** | ![][flag_IT] **CribobFanGirl** | [#1](/community/matches/47828162) |
 
 ### Group Stage
 
