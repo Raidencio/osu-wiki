@@ -1,4 +1,6 @@
-# News Styling Criteria
+<!-- TODO: hasn't been updated or reviewed in a long time. "Writing standards" have changed a bit and there are comments by Ephemeral and peppy scattered around that suggest what should be written here instead -->
+
+# News styling criteria
 
 *For wiki articles, see: [Article Styling Criteria](/wiki/Article_Styling_Criteria)*
 

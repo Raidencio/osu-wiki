@@ -1,6 +1,6 @@
 # Packs
 
-_Halaman utama: [Beatmaps](/wiki/Beatmaps)_
+*Halaman utama: [Beatmaps](/wiki/Beatmaps)*
 
 Paket beatmap adalah sebuah file `.zip` yang berisi kumpulan beatmap. Nama dari pack didasarkan pada apa yang dikandungnya (contoh `Approved Beatmap Pack #7` hanya berisi kumpulan beatmap [approved](/wiki/approved)).
 
@@ -14,7 +14,7 @@ Perlu dicatat bahwa sebagian besar pack:
 Paket beatmap dibagi menjadi 4 kategori:
 
 | Kategori | Jenis beatmap |
-| -------- | ------------- |
+| :-- | :-- |
 | Standard | Lagu-lagu berstatus Ranked atau Approved |
 | Chart | Lagu-lagu tantangan Fortnightly Chart |
 | Theme | Tema umum dari lagu-lagu |
@@ -36,7 +36,7 @@ Paket beatmap bisa ditemukan dan diunduh dari: [laman osu! Beatmaps Packs](https
 
 > Pemberitahuan: Beatmap torrents sepertinya sudah tidak aktif lagi di kalangan komunitas osu!.
 
-- [Beatmap-Torrents](https://osu.ppy.sh/forum/t/147478)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) oleh [Hiramiya](https://osu.ppy.sh/u/1313441)
+- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478)
+  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) oleh [Hiramiya](https://osu.ppy.sh/users/1313441)
 
 Anda akan membutuhkan banyak ruang penyimpanan (dan bandwidth) untuk torrent semua paket ini.

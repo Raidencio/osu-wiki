@@ -1,4 +1,4 @@
-# Tablet Purchase
+# Tablet purchase guide
 
 If you've been playing osu! and chatting with other players, you're bound to hear about these so-called "tablets", and their effects on gameplay in osu!. Tablets are pads that operate with a stylus that connect to your computer. As you hover the pen around above the pad, the mouse cursor moves with the pen, and tapping the pen clicks the mouse. You can think of a tablet for osu! in the same way as you think of an arcade stick for fighting games, not necessary, but some players prefer it.
 
@@ -34,9 +34,9 @@ The HUION H430P (4096) is similar to the osu!tablet (in fact, it is marketed tow
 
 Wacom is the "brand name" of tablets. Tablets are all they make and they're widely accepted (by artists) as producing the best quality, most reliable tablets. Some would recommend buying from Wacom because of their reputation as producing high-quality products as a leader in the tablet world. They produce three main lines:
 
--   Cintiq - "Draw directly on the screen" tablets, these are used in very high-end professional applications, and cost a pretty penny.
--   Intuos - The Professional line of tablets, these have features above and beyond the Bamboo line, but lack a screen.
--   Bamboo - The general consumer line of tablets, these come cheap with all the features you need to get started as a hobbyist.
+- Cintiq - "Draw directly on the screen" tablets, these are used in very high-end professional applications, and cost a pretty penny.
+- Intuos - The Professional line of tablets, these have features above and beyond the Bamboo line, but lack a screen.
+- Bamboo - The general consumer line of tablets, these come cheap with all the features you need to get started as a hobbyist.
 
 There are other lines from Wacom, such as the Graphire or Volito tablets, but these names have been discontinued, replaced by the above lines.
 
@@ -46,11 +46,11 @@ At the time of writing there are three versions of the Bamboo, all confusingly u
 
 ![](img/gen1.jpg "First generation Bamboo (Pen and Touch, Touch, and Fun - Bamboo Fun shown)")
 
-![](http://puu.sh/dlQH "Second generation Bamboo (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
+![](https://puu.sh/dlQH "Second generation Bamboo (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
 
-![](http://puu.sh/dlQi "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
+![](https://puu.sh/dlQi "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
 
-You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](http://www.apple.com/magictrackpad/).
+You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](https://apple.com/magictrackpad).
 
 The other Bamboo models come in two sizes, basically small and large. For the second generation, Bamboo Touch, Pen, and Pen and Touch were the "small" ones, whereas the Fun and Craft were the "large" ones. For the third generation, the Connect and Capture are the "small", whereas the Create is the "large".
 
@@ -64,10 +64,10 @@ In short, Wacom is the recommended brand from most serious osu! players. Cintiq 
 
 Here are some links to purchase the latest models.
 
-- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](http://a.co/fCXqteP)
-- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](http://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://www.huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
-  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](http://a.co/6uDGhXL)
+- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
+- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
+- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
+  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
 
 ## Conclusion
 
@@ -75,4 +75,4 @@ These are only suggestions, however, there are certainly other brands out there 
 
 ## Trivia
 
-- Original forum post: [Tablet Purchase Guide for osu!](/community/forums/topics/71895) by [Daru](/users/32480)
+- Original forum post: [Tablet Purchase Guide for osu!](https://osu.ppy.sh/community/forums/topics/71895) by [Daru](https://osu.ppy.sh/users/32480)

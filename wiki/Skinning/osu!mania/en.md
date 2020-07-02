@@ -1,7 +1,4 @@
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
-# osu!mania
+# osu!mania skinning
 
 *See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial)*
 
@@ -9,7 +6,7 @@ Since v2.5+, skinners are now able to fully customize the osu!mania notes and st
 
 ## Hit Bursts
 
-*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy)*
+*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
 
 ---
 
@@ -385,6 +382,8 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
+Notes:
+
 - Animation name: `mania-note1T-{n}.png`.
 - These elements are the tail part of the hold note.
 - By default, the head notes are used instead.
@@ -402,6 +401,8 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
 
+Notes:
+
 - Animation name: `mania-note2T-{n}.png`.
 - These elements are the tail part of the hold note.
 - By default, the head notes are used instead.
@@ -418,6 +419,8 @@ Notes:
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![No][false] | Normal | Bottom | - |
+
+Notes:
 
 - Animation name: `mania-noteST-{n}.png`.
 - These elements are the tail part of the hold note.
@@ -559,3 +562,6 @@ Notes:
 - This element is the lighting for the single notes (and tail notes).
 - This image is flipped horizontally if the stage is upside down.
 - This element is positioned where the centre of the judgement line crosses the centre of a lane.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

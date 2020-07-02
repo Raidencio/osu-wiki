@@ -1,4 +1,4 @@
-# osu!catch
+# osu!catch skinning tutorial
 
 ## Skinning elements
 

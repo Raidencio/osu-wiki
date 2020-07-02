@@ -1,28 +1,30 @@
 ---
 outdated: true
+outdated_since: d5b45241bf64c7abeadfa160238f428bbcaa4d2a
 ---
-# Modes de Jeu
 
-## ![icône d'osu!](/wiki/shared/mode/osu.png) osu!standard
+# Modes de jeu
 
-*Main page: [osu!standard](/wiki/osu!standard)*
+## ![](/wiki/shared/mode/osu.png) osu!
 
-Basé sur [*Osu! Tatakae! Ouendan*](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia"). Tap, slide, and spin to the beat.
+*Page principale: [osu!](osu!)*
 
-## ![icône d'osu!taiko](/wiki/shared/mode/taiko.png) osu!taiko
+Basé sur *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")*. Tapez, glissez et tournez en rythme.
 
-*Main page: [osu!taiko](/wiki/osu!taiko)*
+## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-Basé sur [*Taiko no Tatsujin*](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia"). Drum, and roll the taiko drumroll to the beat.
+*Page principale: [osu!taiko](osu!taiko)*
 
-## ![icône d'osu!catch](/wiki/shared/mode/catch.png) osu!catch
+Basé sur *[Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")*. Jouer du tambour et du taiko drumroll en rythme.
 
-*Main page: [osu!catch](/wiki/osu!catch)*
+## ![](/wiki/shared/mode/catch.png) osu!catch
 
-Collectez les fruits tombant en bougeant l'attrapeur avec un plateau. Keep dancing and do not miss the step of the beat.
+*Page principale: [osu!catch](osu!catch)*
 
-## ![icône d'osu!mania](/wiki/shared/mode/mania.png) osu!mania
+Ramassez les fruits qui tombent en déplaçant le receveur avec une assiette. Continuez à danser et ne manquez pas le pas du rythme.
 
-*Main page: [osu!mania](/wiki/osu!mania)*
+## ![](/wiki/shared/mode/mania.png) osu!mania
 
-Basé sur les jeux de rythme de type "tapis-roulant", principalement introduit et implémenté par [woc2006](/users/1105845). Make the notes play a melody of the beat.
+*Page principale: [osu!mania](osu!mania)*
+
+Basé sur des jeux de rythme de type convoyeur, principalement introduit et implémenté par [woc2006](https://osu.ppy.sh/users/1105845). Faites en sorte que les notes jouent une mélodie en rythme.

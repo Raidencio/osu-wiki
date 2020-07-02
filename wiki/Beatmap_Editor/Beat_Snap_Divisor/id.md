@@ -1,9 +1,10 @@
-Pembagi Derik Ketukan
-=====================
+# Pembagi Derik Ketukan
 
 Pembagi Derik Ketukan digunakan untuk membatasi penempatan not yang dapat ditempat sehingga mereka selalu tepat pada ketukannya. Memindahkan slider ke kanan meningkatkan granularitas dari not, yang berarti, lebih banyak not yang dapat ditempatkan pada satuan yang sama.
 
 Setiap pengaturan memiliki warna tanda yang berbeda pada [baris waktu](/wiki/Beatmap_Editor/Timelines). Tanda-tanda tersebut yaitu:
+
+## osu!, osu!taiko, osu!catch
 
 ### Pembagi 1/1
 
@@ -11,7 +12,7 @@ Setiap pengaturan memiliki warna tanda yang berbeda pada [baris waktu](/wiki/Bea
 
 - Ketukan Penuh
 - Hanya tanda berwarna putih
-- Baik untuk digunakan pada tingkat kesulitan yang mudah.
+- Baik untuk digunakan pada tingkat kesulitan yang mudah
 
 ### Pembagi 1/2
 
@@ -34,7 +35,7 @@ Setiap pengaturan memiliki warna tanda yang berbeda pada [baris waktu](/wiki/Bea
 
 - Ketukan Seperempat
 - Menambahkan tanda berwarna biru di antara tanda berwarna putih & berwarna merah
-- Berguna dalam pembuatan map secara umum.
+- Berguna dalam pembuatan map secara umum
 
 ### Pembagi 1/6
 
@@ -55,8 +56,7 @@ Setiap pengaturan memiliki warna tanda yang berbeda pada [baris waktu](/wiki/Bea
 
 Menahan tombol `Alt` pada slider mengubahnya menjadi slider dengan [spasi jarak](/wiki/Beatmap_Editor/Distance_Snap)
 
-osu!mania
----------
+## osu!mania
 
 Dua baris putih berhimpit: Satuan
 
@@ -70,7 +70,7 @@ Baris hijau: Kamu.
 
 - Ketukan Penuh
 - Hanya tanda berwarna putih
-- Baik untuk digunakan pada tingkat kesulitan yang mudah.
+- Baik untuk digunakan pada tingkat kesulitan yang mudah
 
 ### Pembagi 1/2
 
@@ -93,7 +93,7 @@ Baris hijau: Kamu.
 
 - Ketukan Seperempat
 - Menambahkan tanda berwarna biru di antara tanda berwarna putih & berwarna merah
-- Berguna dalam pembuatan map secara umum.
+- Berguna dalam pembuatan map secara umum
 
 ### Pembagi 1/6
 
@@ -114,7 +114,7 @@ Baris hijau: Kamu.
 
 ![Divisor 1/12](/wiki/shared/1_12_m.jpg "Divisor 1/12")
 
-- 	Ketukan Seperduabelas
+- Ketukan Seperduabelas
 
 ### Pembagi 1/16
 

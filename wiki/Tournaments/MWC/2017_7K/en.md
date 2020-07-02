@@ -5,6 +5,7 @@ tags:
 - MWC2017
 - MWC7K 2017
 ---
+
 # osu!mania 7K World Cup 2017
 
 ![MWC 7K 2017 Logo](img/logo.jpg)
@@ -29,9 +30,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Profile badge, exclusive osu! merchandise |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Profile badge, exclusive osu! merchandise |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge, exclusive osu! merchandise |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge, exclusive osu! merchandise |
 
 ## Organisation
 
@@ -39,10 +40,10 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 
 | Position | Member(s) |
 | :-- |:-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881) |
-| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881) |
+| Commentator | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_SG] [Evening](https://osu.ppy.sh/users/2193881), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ------------------------------------------------------------------------
 
@@ -57,7 +58,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 ## Participants
 
 |  | Country | Members |
-| --: | :---: | :-- |
+| --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Euroe](https://osu.ppy.sh/users/3633019), [Feravel](https://osu.ppy.sh/users/1276617), [aluuu](https://osu.ppy.sh/users/4585260), [pablodinakinsito](https://osu.ppy.sh/users/2052925), [wtfamidoing](https://osu.ppy.sh/users/2034976) |
 | ![][flag_AU] | **Australia** | **[Pew](https://osu.ppy.sh/users/597692)**, [sankansuki](https://osu.ppy.sh/users/2877926), [Shirinisu](https://osu.ppy.sh/users/4922584), [Evios](https://osu.ppy.sh/users/2058022), [ApocaZumbee](https://osu.ppy.sh/users/3431615), [Alchalyne](https://osu.ppy.sh/users/3999031) |
 | ![][flag_BR] | **Brazil** | **[spoonguy](https://osu.ppy.sh/users/932381)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [Keweft](https://osu.ppy.sh/users/75777), [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lazarento](https://osu.ppy.sh/users/3224958), [Shinora-](https://osu.ppy.sh/users/5828575) |
@@ -94,87 +95,87 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 **[Download the mappack here! (124 MB)](http://www.mediafire.com/file/6xjcb99fb7z1vrz/MWC_7K_2017_Finals.rar)**
 
 - FreeMod
-  - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](http://osu.ppy.sh/beatmaps/1188811)
-  - [uma vs. Morimori Atsushi - Re End of a Dream (qodtjr) \[Dreaming of square\]](http://osu.ppy.sh/beatmaps/1104259)
-  - [Suzumu - Kakumeisei ousama densenbyou (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/beatmaps/993185)
-  - [Blitz Lunar - Mathsma Attack (Blocko) \[Shockwave\]](http://osu.ppy.sh/beatmaps/1060566)
-  - [Falcom Sound Team jdk - SILENT DESERT (Evening) \[BEGINNING\]](http://osu.ppy.sh/beatmaps/1146187)
-  - [The Algorithm - floating point (Drumcorps Remix) (\_underjoy) \[Approximation\]](http://osu.ppy.sh/beatmaps/1154859)
-  - [EZFG - cloud (Ciel) \[High (nerfed)\]](http://osu.ppy.sh/beatmaps/1178427)
-  - [xi - Angelic Party (Jinjin) \[Evening & Jinjin's Collaborative Party!\]](http://osu.ppy.sh/beatmaps/1185659)
-  - [Demetori - Wind God Girl (TBSM) \[BMS 21\]](http://osu.ppy.sh/beatmaps/766085)
-  - [Sakuzyo - Imprinting (Zenonia) \[Impression\]](http://osu.ppy.sh/beatmaps/908448)
-  - [Carl Maria von Weber - Perpetuum Mobile (Gekido-) \[Nivrad00's Virtuoso\]](http://osu.ppy.sh/beatmaps/1185947)
-  - [Helblinde - Memoria Reborn (sankansuki) \[Reincarnation\]](http://osu.ppy.sh/beatmaps/982489)
-  - [Camellia - Dans la mer de son (Jinjin) \[Calm Before the Storm\]](http://osu.ppy.sh/beatmaps/1178316)
-  - [hino isuika - Dreamin' attraction!!(Extended) (qodtjr) \[CRASH KBD\]](http://osu.ppy.sh/beatmaps/1099040)
-  - [xi - PEACE BREAKER (Evening) \[Marathon/Fallout.\]](http://osu.ppy.sh/beatmaps/837107)
+  - [Alon Mor - Demons (-Kamikaze-) \[Evening's ritual (preview)\]](https://osu.ppy.sh/beatmaps/1188811)
+  - [uma vs. Morimori Atsushi - Re End of a Dream (qodtjr) \[Dreaming of square\]](https://osu.ppy.sh/beatmaps/1104259)
+  - [Suzumu - Kakumeisei ousama densenbyou (Zenonia) \[ZenoCORE!\]](https://osu.ppy.sh/beatmaps/993185)
+  - [Blitz Lunar - Mathsma Attack (Blocko) \[Shockwave\]](https://osu.ppy.sh/beatmaps/1060566)
+  - [Falcom Sound Team jdk - SILENT DESERT (Evening) \[BEGINNING\]](https://osu.ppy.sh/beatmaps/1146187)
+  - [The Algorithm - floating point (Drumcorps Remix) (\_underjoy) \[Approximation\]](https://osu.ppy.sh/beatmaps/1154859)
+  - [EZFG - cloud (Ciel) \[High (nerfed)\]](https://osu.ppy.sh/beatmaps/1178427)
+  - [xi - Angelic Party (Jinjin) \[Evening & Jinjin's Collaborative Party!\]](https://osu.ppy.sh/beatmaps/1185659)
+  - [Demetori - Wind God Girl (TBSM) \[BMS 21\]](https://osu.ppy.sh/beatmaps/766085)
+  - [Sakuzyo - Imprinting (Zenonia) \[Impression\]](https://osu.ppy.sh/beatmaps/908448)
+  - [Carl Maria von Weber - Perpetuum Mobile (Gekido-) \[Nivrad00's Virtuoso\]](https://osu.ppy.sh/beatmaps/1185947)
+  - [Helblinde - Memoria Reborn (sankansuki) \[Reincarnation\]](https://osu.ppy.sh/beatmaps/982489)
+  - [Camellia - Dans la mer de son (Jinjin) \[Calm Before the Storm\]](https://osu.ppy.sh/beatmaps/1178316)
+  - [hino isuika - Dreamin' attraction!!(Extended) (qodtjr) \[CRASH KBD\]](https://osu.ppy.sh/beatmaps/1099040)
+  - [xi - PEACE BREAKER (Evening) \[Marathon/Fallout.\]](https://osu.ppy.sh/beatmaps/837107)
 - Tiebreaker
-  - **[Camellia - Fastest Crash (Gekido-) \[Fastest\]](http://osu.ppy.sh/beatmaps/767979)**
+  - **[Camellia - Fastest Crash (Gekido-) \[Fastest\]](https://osu.ppy.sh/beatmaps/767979)**
 
 ### Semifinals
 
 **[Download the mappack here! (99 MB)](http://www.mediafire.com/file/ko6380yoov9455x/MWC7K_2017_Semifinals.rar)**
 
 - FreeMod
-  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening) \[Expert\]](http://osu.ppy.sh/beatmaps/1042544)
-  - [HHHxMMxST - oboro (Yooh) \[Hisoka\]](http://osu.ppy.sh/beatmaps/519264)
-  - [DJ MRYM - Monotune \~Respect\~ (Pope Gadget) \[whasgoinon\]](http://osu.ppy.sh/beatmaps/1082251)
-  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (AncuL) \[Black Another\]](http://osu.ppy.sh/beatmaps/909107)
-  - [sun3 - Morgenglut 2012 (arcwinolivirus) \[7K 'Morgen Mugen' Arc\]](http://osu.ppy.sh/beatmaps/1083582)
-  - [goreshit - o'er the flood (Blocko) \[torrent\]](http://osu.ppy.sh/beatmaps/974969)
-  - [Miku (Vocal by Nobunaga) - Shinkai Shoujou (Cuppp) \[SHD\]](http://osu.ppy.sh/beatmaps/368423)
-  - [DJ Sharpnel - Tactical railroad (qodtjr) \[Destruction\]](http://osu.ppy.sh/beatmaps/1072967)
-  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (Ciel) \[Tick Tock\]](http://osu.ppy.sh/beatmaps/1165581)
-  - [yuikonnu - Chikyuu Saigo no Kokuhaku wo (Zenonia) \[ZenoCORE!\]](http://osu.ppy.sh/beatmaps/580759)
-  - [Forte Escape remixed by gmtn. - Extreme Z4 (Agressive HC mix) (spoonguy) \[sp5\]](http://osu.ppy.sh/beatmaps/1015428)
-  - [sky-fi - sakura sweets (keii bootleg) (Agka) \[Sweet\]](http://osu.ppy.sh/beatmaps/725614)
-  - [Tool - Right in Two (Pope Gadget) \[The Chasm\]](http://osu.ppy.sh/beatmaps/1157119)
-  - [Yuikonnu & Ayaponzu - Kimi to watashi no hitorigoto (\_S h i r o\_) \[Relax\]](http://osu.ppy.sh/beatmaps/895160)
+  - [Pegboard Nerds - Swamp Thing (Da Tweekaz Edit) (Evening) \[Expert\]](https://osu.ppy.sh/beatmaps/1042544)
+  - [HHHxMMxST - oboro (Yooh) \[Hisoka\]](https://osu.ppy.sh/beatmaps/519264)
+  - [DJ MRYM - Monotune \~Respect\~ (Pope Gadget) \[whasgoinon\]](https://osu.ppy.sh/beatmaps/1082251)
+  - [orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs- (AncuL) \[Black Another\]](https://osu.ppy.sh/beatmaps/909107)
+  - [sun3 - Morgenglut 2012 (arcwinolivirus) \[7K 'Morgen Mugen' Arc\]](https://osu.ppy.sh/beatmaps/1083582)
+  - [goreshit - o'er the flood (Blocko) \[torrent\]](https://osu.ppy.sh/beatmaps/974969)
+  - [Miku (Vocal by Nobunaga) - Shinkai Shoujou (Cuppp) \[SHD\]](https://osu.ppy.sh/beatmaps/368423)
+  - [DJ Sharpnel - Tactical railroad (qodtjr) \[Destruction\]](https://osu.ppy.sh/beatmaps/1072967)
+  - [Nero's Day At Disneyland - No Money Down, Low Monthly Payments (Ciel) \[Tick Tock\]](https://osu.ppy.sh/beatmaps/1165581)
+  - [yuikonnu - Chikyuu Saigo no Kokuhaku wo (Zenonia) \[ZenoCORE!\]](https://osu.ppy.sh/beatmaps/580759)
+  - [Forte Escape remixed by gmtn. - Extreme Z4 (Agressive HC mix) (spoonguy) \[sp5\]](https://osu.ppy.sh/beatmaps/1015428)
+  - [sky-fi - sakura sweets (keii bootleg) (Agka) \[Sweet\]](https://osu.ppy.sh/beatmaps/725614)
+  - [Tool - Right in Two (Pope Gadget) \[The Chasm\]](https://osu.ppy.sh/beatmaps/1157119)
+  - [Yuikonnu & Ayaponzu - Kimi to watashi no hitorigoto (\_S h i r o\_) \[Relax\]](https://osu.ppy.sh/beatmaps/895160)
 - Tiebreaker
-  - **[Camellia - Glitch Nerds (Evening) \[overloaded\_.\]](http://osu.ppy.sh/beatmaps/991010)**
+  - **[Camellia - Glitch Nerds (Evening) \[overloaded\_.\]](https://osu.ppy.sh/beatmaps/991010)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (61 MB)](http://www.mediafire.com/file/19768v0uxatm433/MWC_7K_2017_Quarterfinals.rar)**
 
 - FreeMod
-  - [Rob Zombie - What Lurks on Channel X? (Pope Gadget) \[VII\]](http://osu.ppy.sh/beatmaps/1150224)
-  - [SHK - Milky Way (ExPew) \[SC\]](http://osu.ppy.sh/beatmaps/305675)
-  - [xi - Hesperides (ExKagii-) \[Another\]](http://osu.ppy.sh/beatmaps/1035076)
-  - [S.I.D Sound - Pink Gold (Reikosaka) \[Happiness\]](http://osu.ppy.sh/beatmaps/525686)
-  - [STN - The Limbo (Alumetorz) \[Rumi's MX\]](http://osu.ppy.sh/beatmaps/405715)
-  - [DJ SHIMAMURA - Move Real Slow (Agka) \[Slow\]](http://osu.ppy.sh/beatmaps/412973)
-  - [TAG - Romancing Layer (\_S u w a k o\_) \[Lv.34\]](http://osu.ppy.sh/beatmaps/543414)
-  - [Nakamura Meiko - reverb (richardfeder) \[Another\]](http://osu.ppy.sh/beatmaps/509575)
-  - [YUZU - Hyori Ittai (ArcherLove) \[Lv.25\]](http://osu.ppy.sh/beatmaps/516758)
-  - [LeaF - Doppelganger (Jinjin) \[Zen's Insane\]](http://osu.ppy.sh/beatmaps/1025646)
-  - [Shibayan - X-D-A-T (Jole) \[Lv.12 Another\]](http://osu.ppy.sh/beatmaps/440089)
-  - [Iced Blade - Sora no Senritsu -the melody of the cosmos- feat.lily-an (OP Cut) (arcwinolivirus) \[7K Awakened\]](http://osu.ppy.sh/beatmaps/941427)
-  - [M2U - Promise (Jinjin) \[Yaksok\]](http://osu.ppy.sh/beatmaps/869223)
+  - [Rob Zombie - What Lurks on Channel X? (Pope Gadget) \[VII\]](https://osu.ppy.sh/beatmaps/1150224)
+  - [SHK - Milky Way (ExPew) \[SC\]](https://osu.ppy.sh/beatmaps/305675)
+  - [xi - Hesperides (ExKagii-) \[Another\]](https://osu.ppy.sh/beatmaps/1035076)
+  - [S.I.D Sound - Pink Gold (Reikosaka) \[Happiness\]](https://osu.ppy.sh/beatmaps/525686)
+  - [STN - The Limbo (Alumetorz) \[Rumi's MX\]](https://osu.ppy.sh/beatmaps/405715)
+  - [DJ SHIMAMURA - Move Real Slow (Agka) \[Slow\]](https://osu.ppy.sh/beatmaps/412973)
+  - [TAG - Romancing Layer (\_S u w a k o\_) \[Lv.34\]](https://osu.ppy.sh/beatmaps/543414)
+  - [Nakamura Meiko - reverb (richardfeder) \[Another\]](https://osu.ppy.sh/beatmaps/509575)
+  - [YUZU - Hyori Ittai (ArcherLove) \[Lv.25\]](https://osu.ppy.sh/beatmaps/516758)
+  - [LeaF - Doppelganger (Jinjin) \[Zen's Insane\]](https://osu.ppy.sh/beatmaps/1025646)
+  - [Shibayan - X-D-A-T (Jole) \[Lv.12 Another\]](https://osu.ppy.sh/beatmaps/440089)
+  - [Iced Blade - Sora no Senritsu -the melody of the cosmos- feat.lily-an (OP Cut) (arcwinolivirus) \[7K Awakened\]](https://osu.ppy.sh/beatmaps/941427)
+  - [M2U - Promise (Jinjin) \[Yaksok\]](https://osu.ppy.sh/beatmaps/869223)
 - Tiebreaker
-  - **[niki feat. Reol - WAVE (KafuuChino) \[WAVE\]](http://osu.ppy.sh/beatmaps/1017922)**
+  - **[niki feat. Reol - WAVE (KafuuChino) \[WAVE\]](https://osu.ppy.sh/beatmaps/1017922)**
 
 ### Group Stage
 
 **[Download the mappack here! (88 MB)](http://www.mediafire.com/file/zztlm72z3ngh1ha/MWC_7K_2017_Group_Stage.rar)**
 
 - FreeMod
-  - [WALKUERE - Ikenai Borderline (SanadaYukimura) \[Emiria's 7K G\]](http://osu.ppy.sh/beatmaps/1030861)
-  - [The Flashbulb - Who You Evidently Thought Was Me (-Kamikaze-) \[Pope's Anfractuous Derivative\]](http://osu.ppy.sh/beatmaps/1158709)
-  - [penoreri - Everlasting Message (Julie) \[EXHAUST\]](http://osu.ppy.sh/beatmaps/687322)
-  - [Sawano Hiroyuki - Blowin' (ArcherLove) \[Hard\]](http://osu.ppy.sh/beatmaps/426032)
-  - [Ayana - freak of nature: start (richardfeder) \[Freak Out\]](http://osu.ppy.sh/beatmaps/362574)
-  - [Sasaki Sayaka - My Dear Girl (short Ver) (shionelove) \[yoshilove's 7K HD\]](http://osu.ppy.sh/beatmaps/787134)
-  - [Helblinde - Above the Clouds (Level 51) \[Hymn\]](http://osu.ppy.sh/beatmaps/1074573)
-  - [KANON NAKAGAWA starring Nao Toyama - Natsuiro Surprise (HanzeR) \[Insane\]](http://osu.ppy.sh/beatmaps/255968)
-  - [Tsukasa Yatoki - 2A-Attack (Reikosaka) \[Maximum\]](http://osu.ppy.sh/beatmaps/359560)
-  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](http://osu.ppy.sh/beatmaps/712126)
-  - [Toni Leys - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) (LordRaika) \[Insane\]](http://osu.ppy.sh/beatmaps/841216)
-  - [Misawa Sachika - Links (TV Size) (17VA) \[MX\]](http://osu.ppy.sh/beatmaps/320510)
-  - [Junk - Aihana (Love+ Edit) (richardfeder) \[S.Star's Another\]](http://osu.ppy.sh/beatmaps/468795)
+  - [WALKUERE - Ikenai Borderline (SanadaYukimura) \[Emiria's 7K G\]](https://osu.ppy.sh/beatmaps/1030861)
+  - [The Flashbulb - Who You Evidently Thought Was Me (-Kamikaze-) \[Pope's Anfractuous Derivative\]](https://osu.ppy.sh/beatmaps/1158709)
+  - [penoreri - Everlasting Message (Julie) \[EXHAUST\]](https://osu.ppy.sh/beatmaps/687322)
+  - [Sawano Hiroyuki - Blowin' (ArcherLove) \[Hard\]](https://osu.ppy.sh/beatmaps/426032)
+  - [Ayana - freak of nature: start (richardfeder) \[Freak Out\]](https://osu.ppy.sh/beatmaps/362574)
+  - [Sasaki Sayaka - My Dear Girl (short Ver) (shionelove) \[yoshilove's 7K HD\]](https://osu.ppy.sh/beatmaps/787134)
+  - [Helblinde - Above the Clouds (Level 51) \[Hymn\]](https://osu.ppy.sh/beatmaps/1074573)
+  - [KANON NAKAGAWA starring Nao Toyama - Natsuiro Surprise (HanzeR) \[Insane\]](https://osu.ppy.sh/beatmaps/255968)
+  - [Tsukasa Yatoki - 2A-Attack (Reikosaka) \[Maximum\]](https://osu.ppy.sh/beatmaps/359560)
+  - [Hatsuki Yura - Izayoi Warabeuta (Elementaires) \[HD\]](https://osu.ppy.sh/beatmaps/712126)
+  - [Toni Leys - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci) (LordRaika) \[Insane\]](https://osu.ppy.sh/beatmaps/841216)
+  - [Misawa Sachika - Links (TV Size) (17VA) \[MX\]](https://osu.ppy.sh/beatmaps/320510)
+  - [Junk - Aihana (Love+ Edit) (richardfeder) \[S.Star's Another\]](https://osu.ppy.sh/beatmaps/468795)
 - Tiebreaker
-  - **[Nhato - Magic (Tear) \[Enchanted\]](http://osu.ppy.sh/beatmaps/427993)**
+  - **[Nhato - Magic (Tear) \[Enchanted\]](https://osu.ppy.sh/beatmaps/427993)**
 
 ------------------------------------------------------------------------
 
@@ -183,26 +184,26 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 ### Grand Finals
 
 | Sunday, 2017-02-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/31033827) |
 
 ### Finals
 
 | Saturday, 2017-02-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 2 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/30827217) |
 | China ![][flag_CN] | 0 | **6** | ![][flag_KR] **South Korea** | -win by default- |
 | Thailand ![][flag_TH] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/30830208) |
 
 | Sunday, 2017-02-05 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Indonesia** ![][flag_ID] | **6** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30858348) |
 | **China** ![][flag_CN] | **6** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30861745) |
 
 ### Semifinals
 
 | Sunday, 2017-01-29 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/30699733) |
 | Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/30701653) |
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_TH] **Thailand** | -win by default- |
@@ -211,7 +212,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 ### Quarterfinals
 
 | Saturday, 2017-01-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30507247) |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/30508461) |
 | Chile ![][flag_CL] | 2 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/30510203) |
@@ -220,7 +221,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2017-01-14 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/30338922) |
 | Philippines ![][flag_PH] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/30338925) |
 | Australia ![][flag_AU] | 0 | **5** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/30338930) |
@@ -236,7 +237,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 | Chile ![][flag_CL] | 4 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/30350044) |
 
 | Sunday, 2017-01-15 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/30362455) |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30363554) |
 | Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/30373030) |

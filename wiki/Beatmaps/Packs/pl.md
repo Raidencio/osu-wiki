@@ -1,6 +1,6 @@
-﻿# Paczki
+# Paczki
 
-_Główny artykuł: [Beatmapy](/wiki/Beatmaps)_
+*Główny artykuł: [Beatmapy](/wiki/Beatmaps)*
 
 Paczka beatmap to archiwum o rozszerzeniu `.zip` zawierające beatmapy. Nazwa paczki jest zależna od tego, co przechowuje (np. `Approved Beatmap Pack #7` zawiera tylko [zatwierdzone](/wiki/Beatmaps) beatmapy).
 
@@ -14,7 +14,7 @@ Warto zanotować, że większość paczek:
 Paczki beatmap są podzielone na 4 kategorie:
 
 | Kategoria | Typ beatmap |
-| -------- | ------------- |
+| :-- | :-- |
 | Standardowe | Rankingowe bądź zatwierdzone beatmapy |
 | Wyróżnione | Wyróżnione beatmapy mogące stanowić wyzwanie dla graczy |
 | Tematyczne | Beatmapy posiadające wspólną tematykę |
@@ -36,5 +36,5 @@ Paczki beatmap znajdują się [tutaj](https://osu.ppy.sh/beatmaps/packs).
 
 > Uwaga: Torrenty z beatmapami wydają się być martwe wśród społeczności osu!.
 
-- [Torrenty z beatmapami](https://osu.ppy.sh/forum/t/147478)
-  - [HiraOsu! - Torrenty](http://osu.hiramiya.me/torrents.htm) utworzone przez użytkownika [Hiramiya](https://osu.ppy.sh/u/1313441)
+- [Torrenty z beatmapami](https://osu.ppy.sh/community/forums/topics/147478)
+  - [HiraOsu! - Torrenty](http://osu.hiramiya.me/torrents.htm) utworzone przez użytkownika [Hiramiya](https://osu.ppy.sh/users/1313441)

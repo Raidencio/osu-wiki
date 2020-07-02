@@ -1,10 +1,12 @@
-osu!taiko Ranking Criteria
-=====================================
+---
+outdated: true
+---
 
-Ez tartalmazza a legutóbbi változásokat a [fórumról](https://osu.ppy.sh/forum/87). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
+# osu!taiko Ranking Criteria
 
-Gyakori kifejezések
-----------------------
+Ez tartalmazza a legutóbbi változásokat a [fórumról](https://osu.ppy.sh/community/forums/87). Akármely szabály, ami még megbeszélés alatt van, az itt fel van sorolva, és frissítve lesz, ha a szabályok el lesznek döntve.
+
+## Gyakori kifejezések
 
 ### Általános
 
@@ -22,8 +24,7 @@ Gyakori kifejezések
 -   **Shaker**: Pörgető
 -   **Finisher**: Nagy Piros vagy Kék kör
 
-Szabályok
------------
+## Szabályok
 
 Minden szabály az, ami: SZABÁLY. A szabályok NEM simán jó tanácsok és NEM lehet őket megszegni SEMMILYEN körülmények között.
 
@@ -31,8 +32,7 @@ Minden szabály az, ami: SZABÁLY. A szabályok NEM simán jó tanácsok és NEM
 
 A nagy körök nem lehetnek a közepén vagy az elején a 1/4 vagy annál magasabb streameknek, kizárólag a végén, csak indokolt esetben. \[strike\]pls allow us oX\[/strike\]
 
-Irányelvek
--------------
+## Irányelvek
 
 Az irányelvek fontos szerepet töltenek be és követni kell legtöbb esetben. Viszont az irányelvek NEM szabályok, így meg lehet szegni őket **különleges eseteknél**. Ha meg szeretnél szegni egy segédelvet, kérdezd meg magadtól: "Van értelme annak, amit most fogok csinálni? Jobban lehet majd így játszani, mintha az irányelveket követném?" Ha a válaszod "igen" mindkét kérdésre, akkor valószínűleg rendben van.
 
@@ -50,7 +50,7 @@ Hogy ne legyenek egymást túlzottan fedő körök, (általában a lassításokn
 
 -   **Dobpergés (Sárga csík)**
 
-Kevés ilyet használj és mindig hagyj ki 1/2 ütemnyi szünetet közöttük és minden más tárgy között. Kerüld a 125BPM vagy alacsonyabbal rendelkező számoknál a használatát, mivel 1/8 ütemre vált a dobpergés (kivétel létezik, ám ritka). Használj 3-as ütem rátát, ha a szám maga is 1/3-ra van csinálva.
+Kevés ilyet használj és mindig hagyj ki 1/2 ütemnyi szünetet közöttük és minden más tárgy között. Kerüld a 125 BPM vagy alacsonyabbal rendelkező számoknál a használatát, mivel 1/8 ütemre vált a dobpergés (kivétel létezik, ám ritka). Használj 3-as ütem rátát, ha a szám maga is 1/3-ra van csinálva.
 
 -   **Shakers (Pörgetők)**
 

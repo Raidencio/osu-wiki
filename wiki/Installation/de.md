@@ -1,17 +1,21 @@
+---
+outdated: true
+---
+
 # Installation
 
-<!-- *Siehe auch: [Installation/OS X](/wiki/Installation/OS_X) and [Installation/Linux](/wiki/Installation/Linux).* -->
+*Siehe auch: [Installation/macOS](/wiki/Installation/macOS)*
 
-Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum Laufen bekommst. Die [osu!academy](/wiki/osu!academy) hat auch ein englisches [Videotutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) zu diesem Thema.
+Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum Laufen bekommst. Die [osu!academy](/wiki/osu!academy) hat auch ein englisches [Videotutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) zu diesem Thema.
 
 ## Mindestanforderungen
 
-- .NET Framework 4 oder höher (das Installationsprogramm sollte dich auffordern, es zu installieren, ansonsten kann man es auch [hier](https://www.microsoft.com/en-us/download/details.aspx?id=48130) finden).
+- .NET Framework 4 oder höher (das Installationsprogramm sollte dich auffordern, es zu installieren, ansonsten kann man es auch [hier](https://www.microsoft.com/de-de/download/details.aspx?id=48130) finden).
 - Eine vernünftige Grafikkarte.
 
 ## Die Installation
 
-1. Begib dich zur [Downloadseite](/home/download) und lade dir das Installationsprogramm herunter.
+1. Begib dich zur [Downloadseite](https://osu.ppy.sh/home/download) und lade dir das Installationsprogramm herunter.
 2. Suche und starte die Datei.
 3. Sobald das Installationsprogramm läuft, hast du zehn Sekunden Zeit, um das Installationsverzeichnis zu ändern.
     - Wenn du das Verzeichnis ändern willst, klicke einfach auf den Text unter "Hi!" und suche ein neues Verzeichnis aus.
@@ -23,13 +27,13 @@ Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum La
 
 ## Beatmapsets hinzufügen
 
-*Siehe auch [Beatmaps](/wiki/Beatmaps) und [Beatmapsets](/wiki/Beatmapsets)*
+*Siehe auch: [Beatmaps](/wiki/Beatmaps) und [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!direct (benötigt [osu!supporter](/wiki/osu!supporter)).
 
 ### Webseite
 
-1. Begib dich zur [Beatmapauflistung](/beatmapsets) und logge dich ein.
+1. Begib dich zur [Beatmapauflistung](https://osu.ppy.sh/beatmapsets) und logge dich ein.
 2. Such' dir ein Lied aus, das du gerne spielen würdest.
 3. Klicke auf das "Herunterladen"-Icon, um das Beatmapset auf deinem Computer zu speichern.
 4. Finde und öffne die Datei (die Dateiendung ist `.osz`).
@@ -50,9 +54,9 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
 
 ## Skins hinzufügen
 
-*Siehe auch: [Skins](/wiki/Skins) und [Skinning](/wiki/Skinning).*
+*Siehe auch: [Skins](/wiki/Glossary#skin) und [Skinning](/wiki/Skinning)*
 
-1. Begib dich in das [Skinning Subforum](/community/forums/15) und such' dir einen schönen Skin aus.
+1. Begib dich in das [Skinning Subforum](https://osu.ppy.sh/community/forums/15) und such' dir einen schönen Skin aus.
 2. Wenn du einen Skin gefunden hast, lade ihn dir herunter.
 3. Je nachdem, wie der Skinersteller den Skin verpackt hat, musst du einem von mehreren möglichen Abläufen folgen.
     - Wenn der Skin `.osk` verwendet:

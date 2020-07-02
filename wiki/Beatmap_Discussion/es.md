@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
+---
+
 # Discusión de Beatmaps
 
 La Discusión de beatmaps (introducido como *Modding v2*) esta ahora activada!
@@ -10,7 +15,7 @@ Los nuevos beatmaps enviados a través del sistema de envío de Beatmaps utiliza
 
 ### Viejos beatmaps
 
-Un miembro del personal tiene que mover el beatmap manualmente para usar la Discusión de Beatmaps. [Ephemeral](/users/102335) está actualmente a cargo de transferir los beatmapsets. Todos los beatmaps existentes en el WIP y pendientes que no tienen ninguna publicación modificada en el foro se han convertido para usar la Discusión de Beatmaps.
+Un miembro del personal tiene que mover el beatmap manualmente para usar la Discusión de Beatmaps. [Ephemeral](https://osu.ppy.sh/users/102335) está actualmente a cargo de transferir los beatmapsets. Todos los beatmaps existentes en el WIP y pendientes que no tienen ninguna publicación modificada en el foro se han convertido para usar la Discusión de Beatmaps.
 
 ### Volviendo al antiguo sistema de modding
 
@@ -84,7 +89,7 @@ El tren del hype es similar al anterior sistema de prioridad por estrellas.
 
 *Nota: Se requiere que los jugadores jueguen una dificultad en el beatmapset para agregar Hype a un beatmap.*
 
-Los elogios deben hacerse en la sección General `(Todas las dificultades)` para agregar hype. No funcionará a través de las pestañas `General` o` Linea de Tiempo`.
+Los elogios deben hacerse en la sección General `(Todas las dificultades)` para agregar hype. No funcionará a través de las pestañas `General` o `Linea de Tiempo`.
 
 ### Nominación
 
@@ -136,9 +141,9 @@ Al habilitar el alfiler, el [Campo de modding](# modding-field) se desplazará c
 - `Ordenar por`: Ordena las publicaciones por `linea de tiempo` (predeterminado, ordenada por la marca de tiempo dada desde la publicación de la modificación) o `Ultima actualización` (ordenada segun cuando se publicó la publicación)
 - `Contraer todo` y `Expandir todo` Y la flecha hacia arriba: Estos mostrarán/ocultarán las publicaciones.
 - Pulgares arriba/abajo: Me gusta/No me gusta la modificación.
-	- Todos menos el publicador de la modificacion pueden dar su pulgar arriba.
-	- **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Kudosu!) en sugerencias o problemas**
-	- Solo los miembros del [BN](/wiki/BN), [QAT](/wiki/QAT), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
+  - Todos menos el publicador de la modificacion pueden dar su pulgar arriba.
+  - **Dar un pulgar arriba ahora le dará al publicador de la modificación [Kudosu!](/wiki/Kudosu!) en sugerencias o problemas**
+  - Solo los miembros del [BN](/wiki/BN), [NAT](/wiki/People/Nomination_Assessment_Team), y [GMT](/wiki/GMT) pueden dar pulgar abajo (para denegar cualquier Kudosu!).
 - Linea de tiempo: Muestra la marca de tiempo que aborda el problema. Solo disponible en la sección Línea de tiempo.
 - Icono de CREADOR: Muestra respuestas/publicaciones del usuario que creó el beatmapset.
 - Permalink, editar, eliminar: El Permalink toma un link directo a la publicación. Editar permite al remitente editar su publicación. Eliminar permite que el remitente elimine su publicacion.
@@ -158,7 +163,7 @@ Hype se usa para ayudar a impulsar beatmaps a la nominación; similar a cómo la
 
 ### Nominación
 
-La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/BeatMominator) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/QAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
+La nominación es similar al sistema de modding anterior. Un beatmap debe recibir 2 nominaciones de dos [Nominadores de Beatmap](/wiki/Beatmap_Nominators) antes de pasar automáticamente a la etapa de calificación. Los beatmaps deben tener todas las sugerencias y problemas resueltos antes de que puedan clasificarse. BN/NAT puede restablecer las nominaciones publicando un problema en el campo de discusión.
 
 ### Kudosu!
 
@@ -166,7 +171,7 @@ La nominación es similar al sistema de modding anterior. Un beatmap debe recibi
 
 Darle pulgar arriba a una sugerencia o problema en el campo de discusión le dará al modificador Kudosu!. La cantidad de votos recibidos determina cuánto Kudosu! el modder reciba. Cualquier usuario que no sea el publicador puede dar pulgar arriba cualquier publicación.
 
-*Nota: Estas limitado a 60 votos por hora, mientras que los miembros de BN y QAT no tienen este límite.*
+*Nota: Estas limitado a 60 votos por hora, mientras que los miembros de BN y NAT no tienen este límite.*
 
 Actualmente, estos son los umbrales para ganar una cierta cantidad de Kudosu!:
 
@@ -174,7 +179,7 @@ Actualmente, estos son los umbrales para ganar una cierta cantidad de Kudosu!:
 - 2 pulgares arriba = 2 Kudosu!
 - 5 pulgares arriba = 3 Kudosu!
 
-Los miembros de BN, QAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo.
+Los miembros de BN, NAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo.
 
 ## Recordatorios
 
@@ -192,7 +197,6 @@ Los miembros de BN, QAT y GMT pueden denegar Kudosu! dando un pulgar hacia abajo
 - Puede editar o eliminar tus publicaciones si enviaste una publicación y encontraste un error.
 - Como creador, puedes volver a abrir cualquier problema resuelto anteriormente respondiendo a la publicación y desmarcando Resuelto.
 - Puedes editar la descripción del beatmap utilizando la página de beatmapset. Haz clic en el icono de edición en la parte superior derecha del campo de descripción.
-
 
 ## Guía paso a paso para publicar una modificación
 
@@ -216,6 +220,6 @@ La Discusión de Beatmap ya esta activada. No hay forma de volver al sistema ant
 
 ## Ver también
 
-- Hilo original del foro: [Guía de discusión de Modding (MV2)](/community/forums/topics/650961) por [Lanturn](/users/1446665)
-- Video de [pishifat](/users/3178418) sobre Discusión de Beatmap: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
-- Hilo del foro Discusión de Beatmap de peppy (para retroalimentación): [Ayuda general de la Discusión de Beatmap (Modding v2)](https://osu.ppy.sh/forum/t/662559)
+- Hilo original del foro: [Guía de discusión de Modding (MV2)](https://osu.ppy.sh/community/forums/topics/650961) por [Lanturn](https://osu.ppy.sh/users/1446665)
+- Video de [pishifat](https://osu.ppy.sh/users/3178418) sobre Discusión de Beatmap: [osu!mapping: moddingv2](https://www.youtube.com/watch?v=gZxsB98HGq0)
+- Hilo del foro Discusión de Beatmap de peppy (para retroalimentación): [Ayuda general de la Discusión de Beatmap (Modding v2)](https://osu.ppy.sh/community/forums/topics/662559)

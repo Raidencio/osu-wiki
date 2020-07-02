@@ -1,38 +1,35 @@
-Format Berkas Osu!
-==================
+# Format Berkas Osu!
 
-osu!-specific file format
---------------------------
+## osu!-specific file format
 
 ### Archive
 
-| File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]       | beatmap file.                                                                                             |
-| [.osk][Osk Link]       | skin file.                                                                                                |
-| [.db][Db Link]        | Informasi Cache/Database.                                                                                 |
+| File format | Kegunaan |
+| :-- | :-- |
+| [.osz][Osz Link] | beatmap file. |
+| [.osk][Osk Link] | skin file. |
+| [.db][Db Link] | Informasi Cache/Database. |
 
-### [Beatmap Editor](/wiki/Beatmap_Editor)
+### Beatmap Editor
 
-| File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]       | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]        | [Design](/wiki/Beatmap_Editor/Design).                                                                           |
+| File format | Kegunaan |
+| :-- | :-- |
+| [.osu][Osu Link] | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
 
 ### Replay
 
-| File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]        | replay file (tidak bisa decompress).                                                                      |
+| File format | Kegunaan |
+| :-- | :-- |
+| [.osr][Osr Link] | replay file (tidak bisa decompress). |
 
-Membuat file .osz/.osk
--------------------------
+## Membuat file .osz/.osk
 
 .osz/.osk adalah file extensi dari osu!.exe. Jika membuka, .osz file akan otomatis mengekstrak ke osu!.exe dan dipindahkan ke folder "Songs" .osk akan diekstrak otomatis dan dipindahkan ke folder "Skins". Secara default, beatmap files dapat didownload lewat website dengan format file .osz. Membuat file .osz/.osk adalah basik dari pengetahuan untuk beatmaping/storyboarding dan skinning.
 
 ### Dari archiver
 
-**Software yang dibutuhkan:-**
+**Software yang dibutuhkan:*
 
 -   File archiver (WinRAR, 7zip)
 -   osu!
@@ -49,12 +46,12 @@ Membuat file .osz/.osk
 
 3.  Jadikan format seperti ".zip" (jangan .7z, .rar) dan ubahlah format archive tersebut ke .osz.
 
-    DECO27 - Streaming Heart.zip -&gt; DECO27 - Streaming Heart.osz, Archive: ".zip"
+    DECO27 - Streaming Heart.zip -> DECO27 - Streaming Heart.osz, Archive: ".zip"
 
 4.  Tunggu beberapa saat memproses file .osz, akan muncul osu! icon jika sudah selesai.
 5.  Jika mau membuat file untuk skinning, pakailah format .osk.
 
-**Picture examples** (credit untuk [MLGnom's](https://osu.ppy.sh/u/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
+**Picture examples** (credit untuk [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
 
 -   [WinRAR](http://www.rarlab.com/download.htm)
 -   [7-zip](http://www.7-zip.org)
@@ -62,7 +59,7 @@ Membuat file .osz/.osk
 
 ### Membuat file di game
 
-**Software yang dibutuhkan:-**
+**Software yang dibutuhkan:*
 
 -   osu!
 

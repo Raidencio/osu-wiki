@@ -1,6 +1,10 @@
+---
+outdated: true
+---
+
 # Beatmapy
 
-**Beatmapy** w [osu!](/wiki/osu!_glossary) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/Glossary/#ds-games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/hit_objects) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/storyboard).
+**Beatmapy** w [osu!](/wiki/osu!_glossary) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/Glossary#ds-games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/hit_objects) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/storyboard).
 
 Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/BSS) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/modding). Ma on na celu zwiększyć grywalność danej beatmapy.
 
@@ -20,7 +24,7 @@ Beatmapy tego typu w pełni spełniają wszystkie [kryteria rankingowe](/wiki/Ra
 
 ![Znak potwierdzenia](/wiki/shared/status/approved.png) Na ekranie wyboru piosenek zatwierdzone beatmapy są oznaczane znakiem potwierdzenia.
 
-Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Drain_Time) niż 5 minut (znane także jako [maratony](/wiki/marathon)). Większość zatwierdzonych beatmap nie posiada [łatwego](/wiki/Easy) ani [normalnego](/wiki/Normal) poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
+Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgrywce (ang. drain time)](/wiki/Drain_Time) niż 5 minut (znane także jako [maratony](/wiki/marathon)). Większość zatwierdzonych beatmap nie posiada łatwego ani normalnego poziomu trudności. Jednakże, niektórzy twórcy przesyłają je jako oddzielne beatmapy, podczas gdy inni dołączają je razem z rankingowymi.
 
 ### Zakwalifikowane
 
@@ -47,11 +51,11 @@ Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranki
 
 Ten status przyzna beatmapom tabele wyników.
 
-Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społeczności, zobacz wątek [Get your beatmap Loved!](https://osu.ppy.sh/forum/t/549835) na forum.
+Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społeczności, zobacz wątek [Get your beatmap Loved!](https://osu.ppy.sh/community/forums/topics/549835) na forum.
 
 ### Oczekujące
 
-_Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_Ranking_Procedure)_
+*Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_ranking_procedure)*
 
 ![Znak zapytania](/wiki/shared/status/pending.png) Na ekranie wyboru piosenek oczekujące beatmapy są oznaczane znakiem zapytania.
 

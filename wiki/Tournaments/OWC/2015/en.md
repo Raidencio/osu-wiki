@@ -3,6 +3,7 @@ tags:
 - OWC 2015
 - OWC2015
 ---
+
 # osu! World Cup 2015
 
 ![OWC 2015 Logo](img/logo.jpg)
@@ -28,9 +29,9 @@ In every World Cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, profile badge, "osu! Champion" user title |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, profile badge, "osu! Champion" user title |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, profile badge |
 
 ## Organisation
 
@@ -38,15 +39,15 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
-| Streamers | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-| Commentators | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| Streamer | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Commentator | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/forum/p/4550383)
+- [Discussion thread](https://osu.ppy.sh/community/forums/posts/4550383)
 - [Livestream](https://www.twitch.tv/osulive/)
 - **[Group Stage statistics overview](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
@@ -54,13 +55,13 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[GaTu](https://osu.ppy.sh/users/3583351 "GaTu")**, [Enhu](https://osu.ppy.sh/users/2840499 "Enhu"), [Graphite Edge](https://osu.ppy.sh/users/825712 "Graphite Edge"), [benjacala](https://osu.ppy.sh/users/1625740 "benjacala"), [Fr0th](https://osu.ppy.sh/users/3458870 "Fr0th"), [Peingod](https://osu.ppy.sh/users/2212941 "Peingod"), [chucentry](https://osu.ppy.sh/users/2498731 "chucentry"), [Dreamcast](https://osu.ppy.sh/users/1565577 "Dreamcast") |
-| ![][flag_AU] | **Australia** | **[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [Tokichii](https://osu.ppy.sh/users/557197 "Tokichii"), [JappyBabes](https://osu.ppy.sh/users/697783 "JappyBabes"), [Meowt3dCheeze](https://osu.ppy.sh/users/634837 "Meowt3dCheeze"), [[ ZhengS ]](https://osu.ppy.sh/users/2671317 "[ ZhengS ]"), [Hexicate](https://osu.ppy.sh/users/2171562 "Hexicate"), [Jaybladezz](https://osu.ppy.sh/users/3725492 "Jaybladezz"), [Aloha](https://osu.ppy.sh/users/792176 "Aloha") | 
+| ![][flag_AU] | **Australia** | **[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [Tokichii](https://osu.ppy.sh/users/557197 "Tokichii"), [JappyBabes](https://osu.ppy.sh/users/697783 "JappyBabes"), [Meowt3dCheeze](https://osu.ppy.sh/users/634837 "Meowt3dCheeze"), [[ ZhengS ]](https://osu.ppy.sh/users/2671317 "[ ZhengS ]"), [Hexicate](https://osu.ppy.sh/users/2171562 "Hexicate"), [Jaybladezz](https://osu.ppy.sh/users/3725492 "Jaybladezz"), [Aloha](https://osu.ppy.sh/users/792176 "Aloha") |
 | ![][flag_AT] | **Austria** | **[Fedora Goose](https://osu.ppy.sh/users/2323131 "Fedora Goose")**, [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), [Alumetorz](https://osu.ppy.sh/users/1145984 "Alumetorz"), [BlueFlame](https://osu.ppy.sh/users/3506191 "BlueFlame"), [Shirone](https://osu.ppy.sh/users/1426098 "Shirone"), [Elscar](https://osu.ppy.sh/users/2253511 "Elscar"), [Hakkero](https://osu.ppy.sh/users/177913 "Hakkero"), [skritsch](https://osu.ppy.sh/users/3323141 "skritsch") |
 | ![][flag_BR] | **Brazil** | **[fabriciorby](https://osu.ppy.sh/users/209664 "fabriciorby")**, [MouseEasy](https://osu.ppy.sh/users/1558603 "MouseEasy"), [Tio Fenrir](https://osu.ppy.sh/users/2644700 "Tio Fenrir"), [Sooki](https://osu.ppy.sh/users/1451811 "Sooki"), [Shott](https://osu.ppy.sh/users/965354 "Shott"), [Polaco](https://osu.ppy.sh/users/1057782 "Polaco"), [HideZ](https://osu.ppy.sh/users/504657 "HideZ"), [Miyazono](https://osu.ppy.sh/users/529036 "Miyazono") |
-| ![][flag_CA] | **Canada** | **[TrickMirror](https://osu.ppy.sh/users/2138739 "TrickMirror")**, [Azer](https://osu.ppy.sh/users/2155578 "Azer"), [Bowlglet](https://osu.ppy.sh/users/622485 "Bowlglet"), [Xenbo](https://osu.ppy.sh/users/1895489 "Xenbo"), [Ciao](https://osu.ppy.sh/users/2674642 "Ciao"), [MiruHong](https://osu.ppy.sh/users/2866814 "MiruHong"), [Ignite](https://osu.ppy.sh/users/3122948 "Ignite"), [Shina Kokomi](https://osu.ppy.sh/users/980956 "Shina Kokomi") | 
+| ![][flag_CA] | **Canada** | **[TrickMirror](https://osu.ppy.sh/users/2138739 "TrickMirror")**, [Azer](https://osu.ppy.sh/users/2155578 "Azer"), [Bowlglet](https://osu.ppy.sh/users/622485 "Bowlglet"), [Xenbo](https://osu.ppy.sh/users/1895489 "Xenbo"), [Ciao](https://osu.ppy.sh/users/2674642 "Ciao"), [MiruHong](https://osu.ppy.sh/users/2866814 "MiruHong"), [Ignite](https://osu.ppy.sh/users/3122948 "Ignite"), [Shina Kokomi](https://osu.ppy.sh/users/980956 "Shina Kokomi") |
 | ![][flag_CN] | **China** | **[MatsumotoRise](https://osu.ppy.sh/users/672726 "MatsumotoRise")**, [rustbell](https://osu.ppy.sh/users/227717 "rustbell"), [SpringLane](https://osu.ppy.sh/users/1343504 "SpringLane"), [Dsan](https://osu.ppy.sh/users/1266166 "Dsan"), [GGBY](https://osu.ppy.sh/users/629717 "GGBY"), [[ZN]](https://osu.ppy.sh/users/1030696 "[ZN]"), [Rixia Mao](https://osu.ppy.sh/users/3314431 "Rixia Mao"), [Toshinou Kyouko](https://osu.ppy.sh/users/560228 "Toshinou Kyouko") |
 | ![][flag_FI] | **Finland** | **[Sanze](https://osu.ppy.sh/users/3110552 "Sanze")**, [isokasapupuja](https://osu.ppy.sh/users/1770462 "isokasapupuja"), [huono_tuuri](https://osu.ppy.sh/users/1432954 "huono_tuuri"), [Poofie](https://osu.ppy.sh/users/3517198 "Poofie"), [nycto](https://osu.ppy.sh/users/2867764 "nycto"), [Hyppyri](https://osu.ppy.sh/users/3123423 "Hyppyri"), [Winner](https://osu.ppy.sh/users/3437263 "Winner"), [Incera](https://osu.ppy.sh/users/2159415 "Incera") |
 | ![][flag_FR] | **France** | **[Musty](https://osu.ppy.sh/users/251683 "Musty")**, [NerO](https://osu.ppy.sh/users/1545031 "NerO"), [Elysion](https://osu.ppy.sh/users/106269 "Elysion"), [Kynan](https://osu.ppy.sh/users/1093361 "Kynan"), [mrzomb](https://osu.ppy.sh/users/1694887 "mrzomb"), [filsdelama](https://osu.ppy.sh/users/2831793 "filsdelama"), [Shapy](https://osu.ppy.sh/users/2705769 "Shapy"), [FayeurS](https://osu.ppy.sh/users/3105416 "FayeurS") |
@@ -71,7 +72,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 | ![][flag_JP] | **Japan** | **[Mercurius](https://osu.ppy.sh/users/589550 "Mercurius")**, [Poruteri](https://osu.ppy.sh/users/1379576 "Poruteri"), [OhAHO](https://osu.ppy.sh/users/1066760 "OhAHO"), [Roro Rosset](https://osu.ppy.sh/users/673214 "Roro Rosset"), [Super Arrow](https://osu.ppy.sh/users/1970239 "Super Arrow"), [NeruL](https://osu.ppy.sh/users/2497197 "NeruL"), [1o-chak](https://osu.ppy.sh/users/1401004 "1o-chak") |
 | ![][flag_LV] | **Latvia** | **[LoGo](https://osu.ppy.sh/users/750382 "LoGo")**, [Forseen](https://osu.ppy.sh/users/556012 "Forseen"), [Emula](https://osu.ppy.sh/users/2891792 "Emula"), [Vmx](https://osu.ppy.sh/users/967501 "Vmx"), [Jesus[Krists]](https://osu.ppy.sh/users/2842992 "Jesus[Krists]"), [Edijs](https://osu.ppy.sh/users/2799835 "Edijs"), [xoho](https://osu.ppy.sh/users/3647897 "xoho") |
 | ![][flag_LT] | **Lithuania** | **[QonQuest](https://osu.ppy.sh/users/988503 "QonQuest")**, [Mazzerin](https://osu.ppy.sh/users/2942381 "Mazzerin"), [Auji](https://osu.ppy.sh/users/4114438 "Auji"), [PainSinger](https://osu.ppy.sh/users/697843 "PainSinger"), [Zinkon](https://osu.ppy.sh/users/85043 "Zinkon"), [Shelbis](https://osu.ppy.sh/users/2639159 "Shelbis"), [Midget](https://osu.ppy.sh/users/4141635 "Midget"), [Azerite](https://osu.ppy.sh/users/2562987 "Azerite") |
-| ![][flag_MY] | **Malaysia** | **[ClawViper](https://osu.ppy.sh/users/2681361 "ClawViper")**, [xsrsbsns](https://osu.ppy.sh/users/414427 "xsrsbsns"), [Gon](https://osu.ppy.sh/users/583765 "Gon"), [Rumia-](https://osu.ppy.sh/users/1787171 "Rumia-"), [Ex6TenZ](https://osu.ppy.sh/users/2676512 "Ex6TenZ"), [caleb123456](https://osu.ppy.sh/users/2205376 "caleb123456"), [Rampax](https://osu.ppy.sh/users/3995630 "Rampax"), [Amane-](https://osu.ppy.sh/users/2276847 "Amane-") | 
+| ![][flag_MY] | **Malaysia** | **[ClawViper](https://osu.ppy.sh/users/2681361 "ClawViper")**, [xsrsbsns](https://osu.ppy.sh/users/414427 "xsrsbsns"), [Gon](https://osu.ppy.sh/users/583765 "Gon"), [Rumia-](https://osu.ppy.sh/users/1787171 "Rumia-"), [Ex6TenZ](https://osu.ppy.sh/users/2676512 "Ex6TenZ"), [caleb123456](https://osu.ppy.sh/users/2205376 "caleb123456"), [Rampax](https://osu.ppy.sh/users/3995630 "Rampax"), [Amane-](https://osu.ppy.sh/users/2276847 "Amane-") |
 | ![][flag_MX] | **Mexico** | **[Broodich](https://osu.ppy.sh/users/2484629 "Broodich")**, [Id_Beat](https://osu.ppy.sh/users/3431380 "Id_Beat"), [Atheneon](https://osu.ppy.sh/users/2164627 "Atheneon"), [lndex](https://osu.ppy.sh/users/2038320 "lndex"), [Psycopath-](https://osu.ppy.sh/users/3233957 "Psycopath-"), [Eiikon](https://osu.ppy.sh/users/2553519 "Eiikon"), [KevEz](https://osu.ppy.sh/users/2271558 "KevEz"), [Atsuro](https://osu.ppy.sh/users/2279351 "Atsuro") |
 | ![][flag_NL] | **Netherlands** | **[taku](https://osu.ppy.sh/users/684433 "taku")**, [jackylam5](https://osu.ppy.sh/users/1540807 "jackylam5"), [Pittigbaasje](https://osu.ppy.sh/users/2167433 "Pittigbaasje"), [HappyStick](https://osu.ppy.sh/users/256802 "HappyStick"), [Synchrostar](https://osu.ppy.sh/users/419705 "Synchrostar"), [Chidori](https://osu.ppy.sh/users/5258565 "Chidori"), [Menthuthuyoupi](https://osu.ppy.sh/users/2715937 "Menthuthuyoupi"), [Kyshiro](https://osu.ppy.sh/users/640611 "Kyshiro") |
 | ![][flag_NZ] | **New Zealand** | **[shortpotato](https://osu.ppy.sh/users/1266102 "shortpotato")**, [kiyumi](https://osu.ppy.sh/users/3701898 "kiyumi"), [a loli](https://osu.ppy.sh/users/1488796 "a loli"), [momochan](https://osu.ppy.sh/users/4827310 "momochan"), [[ Pustules ]](https://osu.ppy.sh/users/2419478 "[ Pustules ]"), [Tang](https://osu.ppy.sh/users/2162609 "Tang"), [yellowy246](https://osu.ppy.sh/users/3833980 "yellowy246"), [Grimacee](https://osu.ppy.sh/users/2352484 "Grimacee") |
@@ -90,7 +91,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 | ![][flag_US] | **United States** | **[Xilver](https://osu.ppy.sh/users/3099689 "Xilver")**, [Natalia](https://osu.ppy.sh/users/2162669 "Natalia"), [Axarious](https://osu.ppy.sh/users/2614511 "Axarious"), [Ritzeh](https://osu.ppy.sh/users/1028387 "Ritzeh"), [Seouless](https://osu.ppy.sh/users/3328676 "Seouless"), [0120](https://osu.ppy.sh/users/1901534 "0120"), [Zodiaack](https://osu.ppy.sh/users/3096229 "Zodiaack"), [[Toy]](https://osu.ppy.sh/users/2757689 "[Toy]") |
 
 
-## Groups 
+## Groups
 
 | Group | Top Seed | High Seed | Low Seed | No Seed |
 | :-: | :-- | :-- | :-- | :-- |
@@ -262,7 +263,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
   - [Chata - anesthesia (hoLysoup) \[Anesthesia\]](https://osu.ppy.sh/beatmaps/216690)
 - FreeMod
   - [DJ Fresh (feat. Rita Ora) - Hot Right Now (Radio Edit) (Asphyxia) \[Insane\]](https://osu.ppy.sh/beatmaps/537235)
-  - [yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy) \[Insane\]](https://osu.ppy.sh/beatmaps/486613) 
+  - [yuikonnu - Natsu no Owari, Koi no Hajimari (xChippy) \[Insane\]](https://osu.ppy.sh/beatmaps/486613)
   - [Jin - Outer Science (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmaps/313025)
 - Tiebreaker
   - **[Sawai Miku - Colorful. (Asterisk DnB Remix) (Amamiya Yuko) \[Megumi\]](https://osu.ppy.sh/beatmaps/722224)**
@@ -273,124 +274,124 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ### Grand Finals
 
-| Sunday, 2015-12-13 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  China        ![][flag_CN] | 2 | **7** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20910697) |
-|  **United States** ![][flag_US]| **7** | 6 |![][flag_CN]   China | [#1](https://osu.ppy.sh/community/matches/20912739) |
+| Sunday, 2015-12-13 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 2 | **7** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20910697) |
+| **United States** ![][flag_US]| **7** | 6 |![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/20912739) |
 
 ### Finals
 
-| Saturday, 2015-12-05 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  United States ![][flag_US]| 3 | **6** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20711754) |
-|  Hong Kong  ![][flag_HK] | 0 | **6** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20713615) |
-|  Germany  ![][flag_DE] | 2 | **6** |![][flag_PL]  **Poland** | [#1](https://osu.ppy.sh/community/matches/20717055) |
-|  **Poland** ![][flag_PL] | **6** | 3 |![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/20719563) |
+| Saturday, 2015-12-05 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US]| 3 | **6** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20711754) |
+| Hong Kong ![][flag_HK] | 0 | **6** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20713615) |
+| Germany ![][flag_DE] | 2 | **6** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20717055) |
+| **Poland** ![][flag_PL] | **6** | 3 |![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/20719563) |
 
-| Sunday, 2015-12-06 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  **United States** ![][flag_US]| **6** | 3 |![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/20762171) |
+| Sunday, 2015-12-06 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US]| **6** | 3 |![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/20762171) |
 
 ### Semifinals
 
-| Saturday, 2015-11-28 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  **United States** ![][flag_US]| **6** | 2 |![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/20553676) |
-|  Thailand   ![][flag_TH] | 2 | **6** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20555273) |
-| **China**   ![][flag_CN] | **6** | 2 |![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/20556916) |
-|  **Germany**  ![][flag_DE] | **6** | 2 |![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/20558712) |
-|  **Norway**  ![][flag_NO] | **6** | 2 |![][flag_BR]  Brazil | [#1](https://osu.ppy.sh/community/matches/20561290) |
-|  **Germany** ![][flag_DE] | **6** | 3 |![][flag_NO]   Norway | [#1](https://osu.ppy.sh/community/matches/20570952) |
-|  Canada ![][flag_CA] | 5 | **6** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/20574246) |
+| Saturday, 2015-11-28 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US]| **6** | 2 |![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/20553676) |
+| Thailand ![][flag_TH] | 2 | **6** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20555273) |
+| **China** ![][flag_CN] | **6** | 2 |![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/20556916) |
+| **Germany** ![][flag_DE] | **6** | 2 |![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/20558712) |
+| **Norway** ![][flag_NO] | **6** | 2 |![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/20561290) |
+| **Germany** ![][flag_DE] | **6** | 3 |![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/20570952) |
+| Canada ![][flag_CA] | 5 | **6** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/20574246) |
 
-| Sunday, 2015-11-29 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  Austria ![][flag_AT]| 4 | **6** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20591359) |
+| Sunday, 2015-11-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Austria ![][flag_AT]| 4 | **6** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20591359) |
 
 ### Quarterfinals
 
-| Saturday, 2015-11-21 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  **United States** ![][flag_US]| **5** | 2 |![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/20411352) |
+| Saturday, 2015-11-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US]| **5** | 2 |![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/20411352) |
 
-| Sunday, 2015-11-22 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  Taiwan  ![][flag_TW] | 4 | **5** |![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/20423117) |
-| !Hong Kong  [][flag_HK] | 2 | **5** |![][flag_CN]  **China** | [#1](https://osu.ppy.sh/community/matches/20424826) |
-|  **South Korea** ![][flag_KR]| **5** | 3 |![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/20426594) |
-|  **Norway**  ![][flag_NO] | **5** | 2 |![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/20427714) |
+| Sunday, 2015-11-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Taiwan ![][flag_TW] | 4 | **5** |![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/20423117) |
+| Hong Kong ![][flag_HK] | 2 | **5** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20424826) |
+| **South Korea** ![][flag_KR]| **5** | 3 |![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/20426594) |
+| **Norway** ![][flag_NO] | **5** | 2 |![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/20427714) |
 | United Kingdom ![][flag_GB] | 3 | **5** |![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/20429267) |
 | **Germany** ![][flag_DE] | **5** | 1 |![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/20430864) |
-|  **Poland** ![][flag_PL] | **5** | 0 |![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/20432995) |
+| **Poland** ![][flag_PL] | **5** | 0 |![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/20432995) |
 
 ### Round of 16
 
-| Sunday, 2015-11-15 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  **United States** ![][flag_US]| **5** | 4 |![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/20269690) |
-|  Finland  ![][flag_FI] | 0 | **5** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20273790) |
-|  **Austria**  ![][flag_AT] | **5** | 0 |![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/20275097) |
-|  **Hong Kong** ![][flag_HK] | **5** | 3 |![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/20276700) |
-|  United Kingdom ![][flag_GB] | 2 | **5** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20278584) |
-| Thailand   ![][flag_TH] | 2 | **5** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/20280529) |
-|  Norway   ![][flag_NO] | 0 | **5** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20285332) |
-|  Canada   ![][flag_CA] | 1 | **5** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20287601) |
+| Sunday, 2015-11-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US]| **5** | 4 |![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/20269690) |
+| Finland ![][flag_FI] | 0 | **5** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20273790) |
+| **Austria** ![][flag_AT] | **5** | 0 |![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/20275097) |
+| **Hong Kong** ![][flag_HK] | **5** | 3 |![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/20276700) |
+| United Kingdom ![][flag_GB] | 2 | **5** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20278584) |
+| Thailand ![][flag_TH] | 2 | **5** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/20280529) |
+| Norway ![][flag_NO] | 0 | **5** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20285332) |
+| Canada ![][flag_CA] | 1 | **5** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20287601) |
 
 ### Group Stage
 
-| Saturday, 2015-11-08 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  **Austria** ![][flag_AT] | **4** | 1 |![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/20091839) |
+| Saturday, 2015-11-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Austria** ![][flag_AT] | **4** | 1 |![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/20091839) |
 | New Zealand ![][flag_NZ] | 3 | **4** |![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/20091841) |
-|  **Malaysia** ![][flag_MY] | **4** | 1 |![][flag_AU]  Australia | [#1](https://osu.ppy.sh/community/matches/20091844) |
-|  Philippines ![][flag_PH] | 1 | **4** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/20091847) |
+| **Malaysia** ![][flag_MY] | **4** | 1 |![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/20091844) |
+| Philippines ![][flag_PH] | 1 | **4** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/20091847) |
 | Singapore ![][flag_SG] | 0 | **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/20092909) |
-|  Thailand  ![][flag_TH] | 1 | **4** |![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/20092910) |
-|  United Kingdom ![][flag_GB]| 1 | **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20092912) |
-|  Lithuania  ![][flag_LT] | 1 | **4** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/20094037) |
-|  Italy   ![][flag_IT] | 1 | **4** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20094040) |
-|  Portugal  ![][flag_PT] | 3 | **4** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/20094042) |
-|  Singapore  ![][flag_SG] | 3 | **4** |![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/20095460) |
-| Philippines ![][flag_PH] | 0 | **4** |![][flag_GB]  **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/20095461) |
-| Argentina ![][flag_AR] | 0 | **4** |![][flag_KR]  **South Korea** | [#1](https://osu.ppy.sh/community/matches/20095462) |
-|  Greece  ![][flag_GR] | 0 | **4** |![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/20105876) |
-|  Canada ![][flag_CA] | 0 | **4** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20105877) |
-|  Portugal ![][flag_PT] | 1 | **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/20105878) |
-|  **Ukraine**  ![][flag_UA] | **4** | 1 |![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/20107684) |
+| Thailand ![][flag_TH] | 1 | **4** |![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/20092910) |
+| United Kingdom ![][flag_GB]| 1 | **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20092912) |
+| Lithuania ![][flag_LT] | 1 | **4** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/20094037) |
+| Italy ![][flag_IT] | 1 | **4** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20094040) |
+| Portugal ![][flag_PT] | 3 | **4** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/20094042) |
+| Singapore ![][flag_SG] | 3 | **4** |![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/20095460) |
+| Philippines ![][flag_PH] | 0 | **4** |![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/20095461) |
+| Argentina ![][flag_AR] | 0 | **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20095462) |
+| Greece ![][flag_GR] | 0 | **4** |![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/20105876) |
+| Canada ![][flag_CA] | 0 | **4** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20105877) |
+| Portugal ![][flag_PT] | 1 | **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/20105878) |
+| **Ukraine** ![][flag_UA] | **4** | 1 |![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/20107684) |
 | Argentina ![][flag_AR] | 3 | **4** |![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/20107685) |
-|  Norway  ![][flag_NO] | 2 | **4** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20109708) |
+| Norway ![][flag_NO] | 2 | **4** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20109708) |
 | Sweden ![][flag_SE] | 2 | **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/20109709) |
 
-| Sunday, 2015-11-09 | | | | |
-| --: | :-: | :-: | :-- | :-: |
-|  **New Zealand** ![][flag_NZ]| **4** | 0 |![][flag_AR]  Argentina | [#1](https://osu.ppy.sh/community/matches/20115243) |
-|  Mexico ![][flag_MX] | 1 | **4** |![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/20114985) |
+| Sunday, 2015-11-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **New Zealand** ![][flag_NZ]| **4** | 0 |![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/20115243) |
+| Mexico ![][flag_MX] | 1 | **4** |![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/20114985) |
 | Malaysia ![][flag_MY] | 1 | **4** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20116482) |
-|  Japan  ![][flag_JP] | 1 | **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20116483) |
-|  New Zealand ![][flag_NZ] | 1 | **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20117565) |
-|  Mexico ![][flag_MX] | 0 | **4** |![][flag_MY]  **Malaysia** | [#1](https://osu.ppy.sh/community/matches/20117566) |
-|  Australia ![][flag_AU] | 1 | **4** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20117569) |
+| Japan ![][flag_JP] | 1 | **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20116483) |
+| New Zealand ![][flag_NZ] | 1 | **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20117565) |
+| Mexico ![][flag_MX] | 0 | **4** |![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/20117566) |
+| Australia ![][flag_AU] | 1 | **4** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20117569) |
 | Sweden ![][flag_SE] | 1 | **4** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/20125092) |
-|  Philippines ![][flag_PH] | 1 | **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20125093) |
-|  Hong Kong  ![][flag_HK] | 2 | **4** |![][flag_FR]  **France** | [#1](https://osu.ppy.sh/community/matches/20126344) |
-|  Finland ![][flag_FI] | 1 | **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20126352) |
-|  **Thailand** ![][flag_TH] | **4** | 0 |![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/20126358) |
-|  Japan  ![][flag_JP] | 0 | **4** |![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/20127886) |
+| Philippines ![][flag_PH] | 1 | **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20125093) |
+| Hong Kong ![][flag_HK] | 2 | **4** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/20126344) |
+| Finland ![][flag_FI] | 1 | **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20126352) |
+| **Thailand** ![][flag_TH] | **4** | 0 |![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/20126358) |
+| Japan ![][flag_JP] | 0 | **4** |![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/20127886) |
 | Ukraine ![][flag_UA] | 0 | **4** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20127887) |
-|  Singapore ![][flag_SG] | 2 | **4** |![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/20127888) |
+| Singapore ![][flag_SG] | 2 | **4** |![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/20127888) |
 | Lithuania ![][flag_LT] | 2 | **4** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20129481) |
-|  **Portugal** ![][flag_PT] | **4** | 3 |![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/20129484) |
-| Italy   ![][flag_IT] | 2 | **4** |![][flag_FR]  **France** | [#1](https://osu.ppy.sh/community/matches/20133656) |
-| Greece  ![][flag_GR] | 0 | **4** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20133657) |
-|  **Norway** ![][flag_NO] | **4** | 2 |![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/20133658) |
-|  Netherlands ![][flag_NL] | 0 | **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/20135079) |
-|  Latvia  ![][flag_LV] | 1 | **4** |![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/20135084) |
-|  Italy   ![][flag_IT] | 3 | **4** |![][flag_LT] **Lithuania** | [#1](https://osu.ppy.sh/community/matches/20136741) |
-|  **Brazil** ![][flag_BR] | **4** | 3 |![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/20136742) |
-| Greece   ![][flag_GR] | 0 | **4** |![][flag_NO]  **Norway** | [#1](https://osu.ppy.sh/community/matches/20136743) |
-| Mexico   ![][flag_MX] | 0 | **4** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20138453) |
-|  Ukraine   ![][flag_UA] | 1 | **4** |![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/20138457) |
-| Latvia  ![][flag_LV] | 0 | **4** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20138460) |
+| **Portugal** ![][flag_PT] | **4** | 3 |![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/20129484) |
+| Italy ![][flag_IT] | 2 | **4** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/20133656) |
+| Greece ![][flag_GR] | 0 | **4** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20133657) |
+| **Norway** ![][flag_NO] | **4** | 2 |![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/20133658) |
+| Netherlands ![][flag_NL] | 0 | **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/20135079) |
+| Latvia ![][flag_LV] | 1 | **4** |![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/20135084) |
+| Italy ![][flag_IT] | 3 | **4** |![][flag_LT] **Lithuania** | [#1](https://osu.ppy.sh/community/matches/20136741) |
+| **Brazil** ![][flag_BR] | **4** | 3 |![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/20136742) |
+| Greece ![][flag_GR] | 0 | **4** |![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/20136743) |
+| Mexico ![][flag_MX] | 0 | **4** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20138453) |
+| Ukraine ![][flag_UA] | 1 | **4** |![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/20138457) |
+| Latvia ![][flag_LV] | 0 | **4** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20138460) |
 
 ------------------------------------------------------------------------
 
@@ -399,7 +400,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 ### Tournament Rules
 
 1.  The osu! World Cup is a country-based 4v4 team tournament
-2.  Map scoring is based on a new metric, called Score V2. **[Read more about it!](https://osu.ppy.sh/forum/t/375428)**
+2.  Map scoring is based on a new metric, called Score V2. **[Read more about it!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     - One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
 4.  Match schedule will be settled by Tournament Management (see below).
@@ -459,7 +460,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 6.  Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
 
 | Stage | Match ID |
-|-----------------|-------------------------|
+| :-- | :-- |
 | Round of 16 | A, B, C, D, E, F, G, H |
 | Quarter-finals | I, J, K, L & R, S, T, U |
 | Semi-finals | M, N & V, W, X, Y, Z,AA |

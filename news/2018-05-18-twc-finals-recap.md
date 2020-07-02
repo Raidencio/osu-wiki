@@ -12,7 +12,7 @@ The drum mashing of the osu!taiko World Cup 2018 has concluded. The journey for 
 
 **In the first match, Canada claimed their top 4 placing by taking down South Korea 7-3.** The Koreans dominated the speedy nomod picks [Nanoka - Tsukimade Todoke, Fushi no Kemuri](https://osu.ppy.sh/beatmapsets/763774#taiko/1605963) and [Lily - Scarlet Rose](https://osu.ppy.sh/beatmapsets/195238#taiko/463330), but that only got them so far. Having reached the Finals as the only remaining mid-seed, this hailed the end of South Korea's spectacular run this TWC. Just imagine what they could accomplish with a bigger roster in future cups!
 
-History was simultaneously repeated and made in the Winners Finals match between Japan vs. Taiwan in one of the most exciting matches we've seen thus far. Everyone was on the edge of their seats as clever exploitation of the weaknesses in Japan's armor turned into an unprecedented 3 - 3 tie halfway into the match. 
+History was simultaneously repeated and made in the Winners Finals match between Japan vs. Taiwan in one of the most exciting matches we've seen thus far. Everyone was on the edge of their seats as clever exploitation of the weaknesses in Japan's armor turned into an unprecedented 3 - 3 tie halfway into the match.
 
 **Japan however, regained their composure and pulled ahead to end the match with a 7 - 3 victory over Taiwan.** With Japan's historically inscrutable defense not quite as impenetrable as first thought, the stage now was set for perhaps the most exciting Grand Finals in a long time.
 
@@ -48,7 +48,7 @@ With regards to the matches last weekend, I'm certainly glad to see a fairly eve
 
 ### Conclusion
 
-![](/wiki/Tournaments/TWC/2018/podium.png)
+![](/wiki/Tournaments/TWC/2018/img/podium.png)
 
 **Congratulations to Japan for their outstanding performance in the osu!taiko World Cup 2018!**
 

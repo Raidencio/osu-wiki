@@ -13,7 +13,7 @@ For the inaugural Olympiad contest, we tasked mappers with choosing one of three
 ## Kuba Oms - Beautiful Uncertainty (Redux)
 
 | Rank | Username | Entry Name | Musical Relevance (50) | Creativity (50) | Technique (50) | Impression (50) | Hitsounding (25) | Total Score |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | \#1 | pishifat | Tactful Manatee | 43.5 | 41.5 | 45 | 41.5 | 19 | **190.5** |
 | \#2 | Fallmorph | Competitive Bison | 41.5 | 43.5 | 37 | 43.5 | 20 | **185.5** |
 | \#3 | Gaia | Needy Pelican | 36 | 32.5 | 36.2 | 35 | 18 | **157.7** |
@@ -32,7 +32,7 @@ And rounding out the top three, **third place** belongs to [**Gaia**](https://os
 ## cYsmix - Escapism
 
 | Rank | Username | Entry Name | Musical Relevance (50) | Creativity (50) | Technique (50) | Impression (50) | Hitsounding (25) | Total Score |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | \#1| Bonzi | Uptight Dolphin | 46 | 41.5 | 44.5 | 43 | 20.5 | **195.5** |
 | \#2| Rokkea | Composed Chipmunk | 41 | 40 | 43.3 | 42.5 | 18.3 | **185.1** |
 | \#3| fanzhen0019 | Vulnerable Pelican | 43.3 | 37 | 38.3 | 40 | 19.3 | **177.9** |
@@ -57,7 +57,7 @@ In **first place** for *Escapism* is [**Bonzi**](https://osu.ppy.sh/users/131396
 ## OISHII - HONEY SNOWFLAKES
 
 | Rank | Username | Entry Name | Musical Relevance (50) | Creativity (50) | Technique (50) | Impression (50) | Hitsounding (25) | Total Score |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | \#1| Monstrata | Responsive Porcupine | 43.5 | 38.8 | 45 | 42 | 21.5 | **190.8** |
 | \#2| Kibbleru | Tenacious Starling | 38.3 | 34.5 | 40 | 34 | 19.5 | **166.3** |
 | \#3| Nozhomi | Happy Raccoon | 34.5 | 33.5 | 35.5 | 35.5 | 18.5 | **157.5** |
@@ -94,9 +94,9 @@ We'd like to thank all of the judges who spent several weeks going through and j
 
 Lastly, below are all of the entries for each song for everyone to look through. In addition, pishifat, Bonzi, and Monstrata will be putting together mapsets for ranking which will include the top three entries for each of the songs they won respectively:
 
-- *Kuba Oms - Beautiful Uncertainty (Redux)*: [All entries](https://drive.google.com/open?id=1yYaGqLcZLitH9g_KxENJqOOT6PtXTFul), [Mapset](https://osu.ppy.sh/s/801774)
-- *cYsmix - Escapism*: [All entries](https://drive.google.com/open?id=10gw1hnY-JgrMMQ6a54ngX3GcwK-on6wg), [Mapset](https://osu.ppy.sh/s/801862)
-- *OISHII - HONEY SNOWFLAKES*: [All entries](https://drive.google.com/open?id=1Fh_unuEzgb1DSdOMEwgcuPVdQebn83zt), [Mapset](https://osu.ppy.sh/s/801776)
+- *Kuba Oms - Beautiful Uncertainty (Redux)*: [All entries](https://drive.google.com/open?id=1yYaGqLcZLitH9g_KxENJqOOT6PtXTFul), [Mapset](https://osu.ppy.sh/beatmapsets/801774)
+- *cYsmix - Escapism*: [All entries](https://drive.google.com/open?id=10gw1hnY-JgrMMQ6a54ngX3GcwK-on6wg), [Mapset](https://osu.ppy.sh/beatmapsets/801862)
+- *OISHII - HONEY SNOWFLAKES*: [All entries](https://drive.google.com/open?id=1Fh_unuEzgb1DSdOMEwgcuPVdQebn83zt), [Mapset](https://osu.ppy.sh/beatmapsets/801776)
 
 Judging for the osu!taiko contest is about to be underway, and the next contest to look forward to will be for osu!mania. Be on the lookout for an announcement in the coming weeks!
 

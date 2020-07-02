@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "osu! Taiko World Cup 2015 - Registration Phase"
-permalink: http://osunews.tumblr.com/post/107977834958/osu-taiko-world-cup-2015-registration-phase
 date: 2015-01-13 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107977834958/osu-taiko-world-cup-2015-registration-phase
 ---
+
 We'd like to welcome all of you to this year's official osu! Taiko World Cup. The rules have been adjusted from the previous TWC, so please [read them carefully](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2015#ruleset) before registering for this tournament.
 
 ![](/wiki/shared/news/banners/TWC_2015.png)
@@ -40,7 +40,7 @@ For more details, refer to the [osu! Taiko World Cup 2015 wiki article](https://
 
 ## How do I register?
 
-- **Send a [PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled "TWC Registration" containing your local time zone.**
+- **Send a [PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled "TWC Registration" containing your local time zone.**
 - Do not found teams in advance! **Register individually, if you wish to join this competition**. Teams will be formed after registration phase concluded by country's team captains!
 - Hand in your registration before **22 Feb 2015 at 23:59:59 UTC+0.**
 - You can only participate if you are of a **Taiko global ranking of #8000 or higher** and **did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.
@@ -52,6 +52,6 @@ _Remember that any registrations past the deadline will not be considered under 
 ## Links
 
 - [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/TWC/2015)
-- [Discussion thread](https://osu.ppy.sh/forum/t/279723)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
 
 —Loctav

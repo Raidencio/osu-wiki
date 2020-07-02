@@ -1,22 +1,21 @@
 ---
 outdated: true
 ---
-SB オブジェクト/スプライト
-========================
 
-![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
+# SB オブジェクト/スプライト
+
+![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
 *[osu!でのヒットオブジェクトに関しては](/wiki/Game_Modes/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)* を参照してください。
 
 [SBでの](/wiki/Storyboards)**Objects** はSBを構成する動かすことができる画像、アニメーションのことを指します。 またSBとして追加するオーディオデータもオブジェクトに含められると考えられます。しかしここではわかりやすくするために[別のガイドを設けています](/wiki/Storyboard_Scripting/Audio)。
 
-オブジェクトの定義
-------------------
+## オブジェクトの定義
 
 .osbか.osuの`[Events]` のセクションに1行で記述することで、静止画やアニメーションを呼び出すことができます。
 
 | 基本画像 | 変化する画像 |
-| ----------- | ------------ |
+| :-- | :-- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
@@ -58,11 +57,10 @@ Where:
 
 *オブジェクトが表示された時の指示はではない*ということには留意してください。それらは完全に[コマンドに依存します](/wiki/Storyboard_Scripting/Commands)。.osuもしくは.osbにきジュスされたオブジェクトの順番だけが重なりの状態を変化させることができます。*
 
-具体例
-------
+## 具体例
 
 | 基本画像 | 変化する画像 |
-| ----------- | ------------ |
+| :-- | :-- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 いくつかのオブジェクトの宣言例:

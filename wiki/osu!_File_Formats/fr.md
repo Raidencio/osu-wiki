@@ -1,32 +1,29 @@
-Formats de fichiers
-======================
+# Formats de fichiers
 
-Formats de fichiers spécifiques à osu!
------------------------------------------
+## Formats de fichiers spécifiques à osu!
 
 ### Archive
 
-| Format du fichier                           | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]       | Fichier de beatmap exécutable.                                                                                        |
-| [.osk][Osk Link]       | Fichier de skin exécutable.                                                                                           |
-| [.db][Db Link]        | Fichier de base de données.                                                                                            |
+| Format du fichier | Usage |
+| :-- | :-- |
+| [.osz][Osz Link] | Fichier de beatmap exécutable. |
+| [.osk][Osk Link] | Fichier de skin exécutable. |
+| [.db][Db Link] | Fichier de base de données. |
 
-### [Éditeur de beatmap](/wiki/Beatmap_Editor)
+### Éditeur de beatmap
 
-| Format du fichier                           | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]        | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]       | [Design](/wiki/Beatmap_Editor/Design).                                                                                |
+| Format du fichier | Usage |
+| :-- | :-- |
+| [.osu][Osu Link] | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
 
 ### Replay
 
-| Format du fichier                                 | Usage                                                                                      |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]       | Fichier de replay exécutable (n'est pas décompressable).                                                              |
+| Format du fichier | Usage |
+| :-- | :-- |
+| [.osr][Osr Link] | Fichier de replay exécutable (n'est pas décompressable). |
 
-Créer un fichier .osz/.osk
-----------------------------
+## Créer un fichier .osz/.osk
 
 .osz/.osk est une extension de fichier liée spécifiquement à osu!.exe. Lorsqu'ils sont ouverts, les fichiers .osz sont extraits par osu!.exe et transférés au dossier "Songs" tandis que les fichiers .osk sont extraits et transférés au dossier "Skins". Par défaut, les fichiers de beatmaps téléchargés directement depuis le site officiel seront généralement au format .osz. Créer un fichier .osz/.osk est une connaissance essentielle pour la communauté du beatmapping/storyboarding et du skinning.
 
@@ -49,15 +46,15 @@ Créer un fichier .osz/.osk
 
 3.  Vérifiez les paramètres. Réglez la méthode d'archivage en ".zip" (pas .7z, .rar) et renommez l'extension du dossier en .osz manuellement dans la boîte de dialogue.
 
-    Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, Méthode d'archivage : ".zip"
+    Amigo Fiesta.zip -> Amigo Fiesta.osz, Méthode d'archivage : ".zip"
 
 4.  Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
 5.  Faites de même pour d'autres archives. Pour le skinning, utilisez l'extension .osk.
 
-**Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/forum/t/51694) de [MLGnom](https://osu.ppy.sh/u/46620))
+**Exemples en images** (anglais, remerciements au [tutoriel de Skinning](https://osu.ppy.sh/community/forums/topics/51694) de [MLGnom](https://osu.ppy.sh/users/46620))
 
-- [WinRAR](http://puu.sh/1MBV)
-- [7-zip](http://puu.sh/1MBW)
+- [WinRAR](https://puu.sh/1MBV)
+- [7-zip](https://puu.sh/1MBW)
     - Pour les beatmaps, utiliser l'extension .osz.
 
 ### Depuis le jeu

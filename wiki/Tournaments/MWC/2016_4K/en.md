@@ -5,6 +5,7 @@ tags:
 - MWC2016
 - MWC4K 2016
 ---
+
 # osu!mania 4K World Cup 2016
 
 ![MWC 4K 2016 Logo](img/logo.png)
@@ -32,9 +33,9 @@ There is a $1,900 cash prize pool with extra money being added by buying support
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, profile badge |
 
 ## Organisation
 
@@ -42,10 +43,10 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
+| Commentator | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ------------------------------------------------------------------------
 
@@ -90,7 +91,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Userbacker](https://osu.ppy.sh/users/1872307), [AlvaRo5498](https://osu.ppy.sh/users/4490967), [Asesingta](https://osu.ppy.sh/users/5037769), [R3k3T3](https://osu.ppy.sh/users/4520329), [BadAccPlayer](https://osu.ppy.sh/users/4541413) |
 | ![][flag_SE] | **Sweden** | **[Couil](https://osu.ppy.sh/users/6872025)**, [\[ Vento \]](https://osu.ppy.sh/users/1612580), [-Saoeri-](https://osu.ppy.sh/users/6702799), [Craty](https://osu.ppy.sh/users/3918056), [RilipGirlfriend](https://osu.ppy.sh/users/4999669), [Lamaredia](https://osu.ppy.sh/users/3362365) |
 | ![][flag_CH] | **Switzerland** | **[Akayro](https://osu.ppy.sh/users/2573716)**, [Haprapra](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222), [Gamer97](https://osu.ppy.sh/users/4952941) |
-| ![][flag_TH] | **Thailand**  | **[\_S h i r o\_](https://osu.ppy.sh/users/766374)**, [nowsmart](https://osu.ppy.sh/users/1935034), [- N A K O -](https://osu.ppy.sh/users/2526720), [Zenonia](https://osu.ppy.sh/users/437945), [\[13\] BECK](https://osu.ppy.sh/users/2656374), [bhonris](https://osu.ppy.sh/users/2838908) |
+| ![][flag_TH] | **Thailand** | **[\_S h i r o\_](https://osu.ppy.sh/users/766374)**, [nowsmart](https://osu.ppy.sh/users/1935034), [- N A K O -](https://osu.ppy.sh/users/2526720), [Zenonia](https://osu.ppy.sh/users/437945), [\[13\] BECK](https://osu.ppy.sh/users/2656374), [bhonris](https://osu.ppy.sh/users/2838908) |
 | ![][flag_GB] | **United Kingdom** | **[-Konner-](https://osu.ppy.sh/users/6108644)**, [yipyapyop](https://osu.ppy.sh/users/5156656), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Pipper](https://osu.ppy.sh/users/4168230), [Xonica](https://osu.ppy.sh/users/3586776), [Hayabusa](https://osu.ppy.sh/users/3104108) |
 | ![][flag_US] | **United States** | **[Halogen-](https://osu.ppy.sh/users/169992)**, [Zyph](https://osu.ppy.sh/users/1600432), [Shadow_SM](https://osu.ppy.sh/users/4552987), [Gekido-](https://osu.ppy.sh/users/4693052), [Chrubble](https://osu.ppy.sh/users/2594280), [Daikyi](https://osu.ppy.sh/users/811832) |
 
@@ -243,26 +244,26 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 ### Grand Finals
 
 | Saturday, 2016-09-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/27652825) |
 
 ### Finals
 
 | Saturday, 2016-09-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/27505279) |
 | **Japan** ![][flag_JP] | **6** | 3 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/27510481) |
 | **Brazil** ![][flag_BR] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/27512221) |
 | Japan ![][flag_JP] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/27513965) |
 
 | Sunday, 2016-09-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/27551501) |
 
 ### Semifinals
 
 | Saturday, 2016-08-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/27342270) |
 | Argentina ![][flag_AR] | 0 | **6** | ![][flag_JP] **Japan** | -win by default- |
 | Singapore ![][flag_SG] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/27346316) |
@@ -271,14 +272,14 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | United Kingdom ![][flag_GB] | 4 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/27353347) |
 
 | Sunday, 2016-08-28 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/27372674) |
 | **Brazil** ![][flag_BR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/27382022) |
 
 ### Quarterfinals
 
 | Sunday, 2016-08-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/27192490) |
 | Japan ![][flag_JP] | 0 | **5** | ![][flag_KR] **South Korea** | -win by default- |
 | Switzerland ![][flag_CH] | 0 | **5** | ![][flag_SG] **Singapore** | -win by default- |
@@ -291,7 +292,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 ### Round of 16
 
 | Saturday, 2016-08-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Singapore ![][flag_SG] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/27007849) |
 | Australia ![][flag_AU] | 1 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/27008721) |
 | Switzerland ![][flag_CH] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/27009804) |
@@ -304,7 +305,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2016-08-06 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Macau ![][flag_MO] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/26845650) |
 | New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/26845652) |
 | **Singapore** ![][flag_SG] | **4** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/26846360) |
@@ -330,7 +331,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | **Switzerland** ![][flag_CH] | **4** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/26854199) |
 
 | Sunday, 2016-08-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 3 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/26862320) |
 | Argentina ![][flag_AR] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/26862322) |
 | Philippines ![][flag_PH] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/26863256) |
@@ -365,7 +366,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode on 4-key specific beatmaps.
     - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
-2. **Map scoring is based on a new metric, called Score V2. Refer to [this thread](https://osu.ppy.sh/forum/t/466617) for more information.**
+2. **Map scoring is based on a new metric, called Score V2. Refer to [this thread](https://osu.ppy.sh/community/forums/topics/466617) for more information.**
 3. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
     - There will be a NoMod and a FreeMod bracket.
     - One map will be given as a tiebreaker map. This map will only be played in case of a tie.

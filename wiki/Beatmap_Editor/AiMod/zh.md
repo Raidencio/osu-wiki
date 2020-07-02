@@ -1,12 +1,10 @@
-AiMod
-========
+# AiMod
 
 Aimod是一个内置于beatmap editor中的一个工具，你可以在“File-->Open AiMod”或者按下“Ctrl+Shift+A”打开它。 当你做完一张beatmap正在找或者打算找modder来看你的beatmap的时候，你就可以打开这个工具来看看。 AiMod可以检测出一些新人比较容易出现的问题，也可以对较简单难度的图进行一个检测。不过AiMod始终都带有一个Ai，就肯定有一些检测不出来的问题，所以，除了需要使用AiMod进行beatmap检测之外，还需要一些modder来检测你的beatmap。
 
 ![AiMod](AiMod.jpg "通常AiMod都是你的第一个Modder")
 
-常见错误解释
------------
+## 常见错误解释
 
 在Aimod检测完你的beatmap之后，会显示结果给你。如果显示“No problems were found in this map!”的话，那恭喜你，你的beatmap已经通过了AiMod的检测，不过在这个时候，你依然需要找modder来检测你的beatmap，他们能够发现很多AiMod检测不出来的问题。
 
@@ -52,9 +50,9 @@ Aimod是一个内置于beatmap editor中的一个工具，你可以在“File-->
 
 解决：
 
--   Timing--&gt;Resnap All Notes，可以重新对齐大部分物件
--   Timing--&gt;Move all notes in time，如果只改变了offset（偏移量），可以修改这个
--   自行在时间轴上拖放物件
+- Timing-->Resnap All Notes，可以重新对齐大部分物件
+- Timing-->Move all notes in time，如果只改变了offset（偏移量），可以修改这个
+- 自行在时间轴上拖放物件
 
 ### Design（背景设计）
 
@@ -68,7 +66,7 @@ Aimod是一个内置于beatmap editor中的一个工具，你可以在“File-->
 
 解决：找一张背景图片放进去然后调用就是了。
 
-Design--&gt;Background Image/Video--&gt;选择你的图片
+Design-->Background Image/Video-->选择你的图片
 
 ### Timing（时间校对）
 

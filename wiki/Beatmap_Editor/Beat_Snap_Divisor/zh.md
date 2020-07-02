@@ -1,9 +1,10 @@
-音符时值
-========
+# 音符时值
 
 音符时值是用来限制物件摆放的位置使得它们能准确地落在节拍上，减小音符时值可以在一个全音符内放置更多的物件
 
 不同的音符时值会在[时间轴上以不同颜色的线条来表现](/wiki/Beatmap_Editor/Timelines)，具体如下：
+
+## osu!，osu!taiko，osu!catch
 
 ### 时值 1/1
 
@@ -55,8 +56,7 @@
 
 在滑条上按下 `Alt` 按钮可以将它转换成[固定间距的滑条](/wiki/Beatmap_Editor/Distance_Snap)
 
-osu!mania
----------
+## osu!mania
 
 双白线: 全音符
 

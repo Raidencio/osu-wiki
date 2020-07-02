@@ -5,6 +5,7 @@ tags:
 - MWC2017
 - MWC4K 2017
 ---
+
 # osu!mania 4K World Cup 2017
 
 ![MWC 4K 2017 Logo](img/logo.jpg)
@@ -30,9 +31,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge, exclusive osu! merchandise |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge, exclusive osu! merchandise |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge, exclusive osu! merchandise |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge, exclusive osu! merchandise |
 
 ## Organisation
 
@@ -40,10 +41,10 @@ The osu!mania 4K World Cup 2017 is run by various community members by distribut
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
-| Commentators | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
+| Commentator | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ------------------------------------------------------------------------
 
@@ -220,18 +221,18 @@ The osu!mania 4K World Cup 2017 is run by various community members by distribut
 ### Grand Finals
 
 | Saturday, 2017-09-16 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 0 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/36111799) |
 
 ### Finals
 
 | Saturday, 2017-09-09 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35952218) |
 | United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/35955973) |
 
 | Sunday, 2017-09-10 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/35972975) |
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35974418) |
 | Brazil ![][flag_BR] | 5 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/35998794) |
@@ -239,7 +240,7 @@ The osu!mania 4K World Cup 2017 is run by various community members by distribut
 ### Semifinals
 
 | Saturday, 2017-09-02 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Sweden ![][flag_SE] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/35769761) |
 | **China** ![][flag_CN] | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35771726) |
 | Brazil ![][flag_BR] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/35774130) |
@@ -248,20 +249,20 @@ The osu!mania 4K World Cup 2017 is run by various community members by distribut
 | **United States** ![][flag_US] | **6** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/35783065) |
 
 | Sunday, 2017-09-03 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **6** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/35804308) |
 | China ![][flag_CN] | 2 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/35807134) |
 
 ### Quarterfinals
 
 | Saturday, 2017-08-26 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | France ![][flag_FR] | 4 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/35585664) |
 | Argentina ![][flag_AR] | 1 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/35588367) |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/35590366) |
 
 | Sunday, 2017-08-27 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/35601021) |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/35602514) |
 | Singapore ![][flag_SG] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/35604433) |
@@ -271,7 +272,7 @@ The osu!mania 4K World Cup 2017 is run by various community members by distribut
 ### Round of 16
 
 | Sunday, 2017-08-20 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | New Zealand ![][flag_NZ] | 1 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/35418105) |
 | **Indonesia** ![][flag_ID] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/35419189) |
 | United Kingdom ![][flag_GB] | 3 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/35420314) |
@@ -284,7 +285,7 @@ The osu!mania 4K World Cup 2017 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2017-08-12 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 2 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/35209765) |
 | Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/35209716) |
 | New Zealand ![][flag_NZ] | 1 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/35209719) |
@@ -314,7 +315,7 @@ The osu!mania 4K World Cup 2017 is run by various community members by distribut
 | Switzerland ![][flag_CH] | 0 | **4** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/35219940) |
 
 | Sunday, 2017-08-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-: |
+| --: | :-: | :-: | :-- | :-- |
 | New Zealand ![][flag_NZ] | **4** | 2 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/35236072) |
 | Italy ![][flag_IT] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/35236074) |
 | Netherlands ![][flag_NL] | 1 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/35236084) |

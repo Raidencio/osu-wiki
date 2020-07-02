@@ -1,29 +1,14 @@
-# osu! wiki [![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
+# osu! wiki
 
-<!--
-Uncomment and replace after the main wiki page gets implemented, link isn't official:
-Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki).
--->
+[![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)](https://discord.gg/ppy)
 
-Home of the [osu!](https://osu.ppy.sh) wiki.
+Home of the [Knowledge Base](https://osu.ppy.sh/help/wiki/Main_Page).
 
 ## Contributing
 
 Please see [the "contributing" file](CONTRIBUTING.md) if you are interested in helping out with the project!
 
-## File caching
-
-### Wiki articles
-
-Articles are cached for up to five hours.
-
-### Images
-
-Images are cached for up to two hours.
-
-### News posts
-
-News posts are cached for up to sixty days. If there are any issues after merging a news post, merge a pull request to fix it then tell Ephemeral (`ephemeralis#0001`) or Shiro (`Shiro#1584`) on the [osu!dev Discord](https://discord.gg/ppy) (`#osu-wiki` channel) to force a refresh for the fixed news post.
+For those interested, we love to reward quality contributions via [bounties](https://docs.google.com/spreadsheets/d/1jNXfj_S3Pb5PErA-czDdC9DUu4IgUbe1Lt8E7CYUJuE/view?&rm=minimal#gid=523803337), paid out via PayPal or osu!supporter tags. Don't hesitate to [request a bounty](https://docs.google.com/forms/d/e/1FAIpQLSet_8iFAgPMG526pBZ2Kic6HSh7XPM3fE8xPcnWNkMzINDdYg/viewform) for your work on this project.
 
 ## Licence
 

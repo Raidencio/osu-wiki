@@ -1,19 +1,17 @@
-Objects
-==========
+# Storyboard objects
 
-![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
+![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
 *For objects in [osu!standard](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Hit_Objects)*
 
 In [Storyboarding](/wiki/Storyboards), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](/wiki/Storyboard_Scripting/Audio).
 
-Object Definition
------------------
+## Object Definition
 
 To call an instance of a sprite (a still image) or an animation, use a single line in the `[Events]` section of an .osb or .osu file.
 
 | Basic image | Moving image |
-| ----------- | ------------ |
+| :-- | :-- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
@@ -57,11 +55,10 @@ Where:
 
 Take note that *there is no indication of when the object should appear*. That is entirely up to [the commands themselves](/wiki/Storyboard_Scripting/Commands). The order of the object declarations in the .osu or .osb file only affects what overlaps what; it has no bearing on when the object appears (although it's conventional to keep the declarations ordered based on when they appear anyway).
 
-Examples
---------
+## Examples
 
 | Basic image | Moving image |
-| ----------- | ------------ |
+| :-- | :-- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Some examples of object declarations:

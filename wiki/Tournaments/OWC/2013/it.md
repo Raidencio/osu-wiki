@@ -1,12 +1,12 @@
 ---
 outdated: true
 ---
-osu! World Cup 2013
-======================
+
+# osu! World Cup 2013
 
 ![OWC 2013 logo](img/logo.png)
 
-L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.sh/g/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![][flag_KR] Korea**. AL momento, il torneo è in fase *' Registrazione*'.
+L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.sh/groups/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![][flag_KR] Korea**. AL momento, il torneo è in fase *' Registrazione*'.
 = Tabella giorni =
 
 -   Registrazione: 15-28 Oct 2013
@@ -17,19 +17,17 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 -   Semi-finali: 30 Nov - 1 Dec 2013
 -   Finali/lotta per il terzo posto: 7-8 Dec 2013
 
-Premi
----------
+## Premi
 
 **\#1:** 6 mesi di supporter, piccolo banner sotto al nome utente, trofeo OWC
 **\#2:** 3 mesi di supporter
 **\#3:** 1 mese di supporter
 
-Organizzazione
----------------
+## Organizzazione
 
 **Gestione torneo:** ![][flag_DE] [Loctav](https://osu.ppy.sh/users/Loctav), ![][flag_US] [dkun](https://osu.ppy.sh/users/dkun), ![][flag_DE] [p3n](https://osu.ppy.sh/users/p3n)
 
-**Riferimenti:** [Tournament Management usergroup](https://osu.ppy.sh/g/26)
+**Riferimenti:** [Tournament Management usergroup](https://osu.ppy.sh/groups/26)
 
 **Scelta delle beatmap:** ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/Darksonic), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/Wishy)
 
@@ -39,21 +37,17 @@ Organizzazione
 
 ------------------------------------------------------------------------
 
-Partecipanti (0/32)
---------------------
+## Partecipanti (0/32)
 
-Mappools
------------
+## Mappools
 
-Links
----------
+## Links
 
--   [Discuti qui](https://osu.ppy.sh/forum/t/160181/start=0)
+-   [Discuti qui](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 ------------------------------------------------------------------------
 
-Regolamento
---------------
+## Regolamento
 
 ### Regolamento del torneo
 
@@ -87,8 +81,8 @@ Regolamento
     2.  You must specify a captain who will represent the team.
 
 2.  Each team represents a nation. You must form a team with players from the same country.
-3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”
-    1.  Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
+    1.  Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
 
 4.  Any registration and change will be checked by the Tournament Management before being accepted and added to the list of participants.
 5.  The total amount of teams is 32. First come, first serve.

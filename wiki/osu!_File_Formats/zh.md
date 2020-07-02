@@ -1,32 +1,29 @@
-osu! 文件格式
-===============
+# osu! 文件格式
 
-osu! 特有的文件格式
---------------------
+## osu! 特有的文件格式
 
 ### 存档
 
-| 文件格式                                 | 用途                                                                                             |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]    | 可执行的谱面文件                                                                                             |
-| [.osk][Osk Link]   | 可执行的皮肤文件                                                                                             |
-| [.db][Db Link]      | 存储信息                                                                                                     |
+| 文件格式 | 用途 |
+| :-- | :-- |
+| [.osz][Osz Link] | 可执行的谱面文件 |
+| [.osk][Osk Link] | 可执行的皮肤文件 |
+| [.db][Db Link] | 存储信息 |
 
-### [谱面编辑器](/wiki/Beatmap_Editor)
+### 谱面编辑器
 
-| 文件格式                                | 用途                                                                                             |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]    | 参见[Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
-| [.osb][Osb Link]    | 参见[Design](/wiki/Beatmap_Editor/Design)                                                                           |
+| 文件格式 | 用途 |
+| :-- | :-- |
+| [.osu][Osu Link] | 参见[Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup) |
+| [.osb][Osb Link] | 参见[Design](/wiki/Beatmap_Editor/Design) |
 
 ### 回放
 
-| 文件格式                                 | 用途                                                                                             |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]    | 可执行的回放文件（不能被解压）                                                                               |
+| 文件格式 | 用途 |
+| :-- | :-- |
+| [.osr][Osr Link] | 可执行的回放文件（不能被解压） |
 
-创建 .osz/.osk 文件
--------------------
+## 创建 .osz/.osk 文件
 
 .osz/.osk 文件是 osu!.exe 所独有的文件扩展名。打开时 .osz 会被 osu!.exe 读取并解压到 "Songs" 文件夹，而 .osk 文件会被读取并解压到 "Skins" 文件夹。默认地，从官网上直接下载的谱面文件格式是 .osz。而如何创建一个 .osz/.osk 文件则是作图/故事版以及皮肤相关社区中的基础知识。
 
@@ -46,17 +43,17 @@ osu! 特有的文件格式
     - 你也可以选择打开压缩软件然后将文件夹拖拽进去
 
 3.  检查设置，把压缩格式设为 ".zip" (而不是 .7z, .rar) 然后手动把文件扩展名改成 .osz
-    - Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, 压缩方式: ".zip"
+    - Amigo Fiesta.zip -> Amigo Fiesta.osz, 压缩方式: ".zip"
 
 4.  点击确认，产生了一个带有 osu! 图标的 .osz 文件
 5.  你可以重复这个操作来产生新文件
     - 如果你想为谱面创建压缩文件，那么使用 .osz 扩展名
     - 如果你想为皮肤创建压缩文件，那么使用 .osk 扩展名
 
-**图例：** (感谢 [MLGnom's](https://osu.ppy.sh/u/46620) [Skinning tutorial](https://osu.ppy.sh/forum/t/51694))
+**图例：** (感谢 [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
 
--   [WinRAR](http://puu.sh/1MBV)
--   [7-zip](http://puu.sh/1MBW)
+-   [WinRAR](https://puu.sh/1MBV)
+-   [7-zip](https://puu.sh/1MBW)
 
 ### 在游戏中创建
 

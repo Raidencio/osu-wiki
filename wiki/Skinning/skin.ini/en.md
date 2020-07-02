@@ -84,6 +84,20 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
   - `NoteBodyStyle` (stretch, cascade from top, cascade from bottom)
   - `LightingNWidth` and `LightingLWidth`
 
+### 2.6
+
+**Allow per-type skinning of arrows**
+
+- Adds `arrow-generic.png`, `arrow-warning.png` and `arrow-pause.png`.
+- Removes `play-warningarrow.png`.
+
+### 2.7
+
+**osu!mania specific combobursts**
+
+- Adds `comboburst-mania.png`.
+  - Displays on the right side of the stage.
+
 ### latest
 
 **Always the newest version**
@@ -115,9 +129,9 @@ Some commands only accept a boolean value (a `true` or a `false` value). When sk
 
 Here is a classic example:
 
-| `SliderBallFlip: 0`        | `SliderBallFlip: 1`        |
-|:--------------------------:|:--------------------------:|
-| ![](Sliderball_flip-0.gif) | ![](Sliderball_flip-1.gif) |
+| `SliderBallFlip: 0` | `SliderBallFlip: 1` |
+| :-: | :-: |
+| ![](img/Sliderball_flip-0.gif) | ![](img/Sliderball_flip-1.gif) |
 
 Note that Reisen, the sliderball, does **not** flip when `0` is used. However, Reisen does flip when a `1` is used. Depending on what spite is used, you will either get a moonwalking sliderball, or one that turns around.
 
@@ -188,7 +202,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Default: `0`
   - Notes:
     - The default sliderball will always get tinted, if enabled in [options](/wiki/options).
-- `ComboBurstRandom` 
+- `ComboBurstRandom`
   - Question: Should combobursts be shown in a random order?
   - Values: `0` or `1`
   - Default: `0`
@@ -210,7 +224,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Values: `0` or `1`
   - Default: `1`
 - `CursorTrailRotate:`
-  - Question: Should the cursor sprite rotate constantly?
+  - Question: Should the cursor trail sprite rotate constantly?
   - Values: `0` or `1`
   - Default: `1`
 - `CustomComboBurstSounds:`
